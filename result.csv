@@ -1,0 +1,1688 @@
+Process ID: 236029
+Getting Mqtt data...........
+entering data to map.....
+completed Data Fetching Starting Insertion........
+tolal packages to insert: 213333 time: 47.515676853s
+:::::::::::::: Livguard_Ver2 / Upgrid_Mobility , BMS_Livguard_48V_V2_2022_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Fronx_Delta_2023_P_MT
+:::::::::::::: Noori_Travels , Car_Maruti_Swift_Default_2022_P_MT
+:::::::::::::: Sparrow_Mobility , Car_Maruti_Wagonr_Default_2021_P_AT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Meteor 350 Super nova_Default_2020_P_MT
+:::::::::::::: bb2_inverted / BS_Devices_Simsterminated / Inverted_energy , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: RoyalBrothers , Bike_TVS_Apache_RTR200_2023_P_AT
+:::::::::::::: stefen_electric / Upgrid_Mobility , BMS_Stefen_48V_4G_250Kbps_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD / demo.hero , Bike_Hero_PLEASURE+_Default_2023_P_AT
+:::::::::::::: HWY Rider , ____0__
+:::::::::::::: EVMGroup , Bike_Hero_Xpulse_200_2023_P_AT
+:::::::::::::: Greendrive , ____0__
+:::::::::::::: MBSI_PVT_LTD , Car_Tata_Xpress -T_Default_2021_EV_AT
+:::::::::::::: Boom_Cabs , Car_Tata_Xpress -T_Default_2021_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS , Car_Maruti_Ertiga_Default_2020_P_MT
+:::::::::::::: RoyalBrothers , Bike_KTM_390 Adventure X_Default_2022_P_MT
+:::::::::::::: vidyuttech_API / Greaves_3W_MLR_Auto / IntelliOne , eRickshaw_MLR Auto_Eltra_City_SEG+Exicom_2023_EV_AT
+:::::::::::::: okaya , eBike_OKaya_Faast F4_Default_2022_EV_AT
+:::::::::::::: Battrixx / Upgrid_Mobility , BMS_Battrixx_48V_Default_2023_EV_AT
+:::::::::::::: Likraft , BMS_Likraft_12.8V 180Ah_RS485_2023_EV_AT
+:::::::::::::: vidyuttech_API / Greaves_3W_MLR_Auto / MahindraDemo , eRickshaw_MLR Auto_Eltra_Cargo_SEG+Exicom_2023_EV_AT
+:::::::::::::: Maverick_Motors , Bike_Royal Enfield_Continental GT 650_Default_2024_P_MT
+:::::::::::::: MoveInSync , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: PIAConsultancy , ____0__
+:::::::::::::: Greenfuel / Upgrid_Mobility , BMS_Greenfuel_48V_V1_2019_EV_AT
+:::::::::::::: Grinntech , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: BikeBazaar , eBike_BGauss_D15i_Default_2023_EV_AT
+:::::::::::::: Mangalore_police , Car_Chevrolet_Tavera_Default_2016_D_MT
+:::::::::::::: Street_Corner , eBike_Royal EV_K2_Default_2021_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Tiguan_Default_2021_P_MT
+:::::::::::::: DeviceManagement , ____0__
+:::::::::::::: Trusterra / Trontek , BMS_Trontek_51V105Ah_Ver 2.1 - JK 250K_2023_EV_AT
+:::::::::::::: SUN_MOBILITY , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: EVMGroup , Car_Tata_Altroz_Default_2021_P_MT
+:::::::::::::: stefen_electric , ____0__
+:::::::::::::: BS_Devices_Simsterminated / Inverted_energy , BMS_Inverted_51.6V_Inverted_Daly_2023_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Royal Enfield_Himalayan_Default_2017_P_MT
+:::::::::::::: Noori_Travels , Car_Mahindra_Verito_Default_2017_D_MT
+:::::::::::::: lithium , Car_Tata_Xpress -T_Ziptron_2024_EV_AT
+:::::::::::::: Charzer , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: EEE_TAXI , Car_Citroen_Citroen_Default_2022_EV_AT
+:::::::::::::: EVMGroup , Bike_Yamaha_Fz_Default_2023_P_MT
+:::::::::::::: Perpetuity_Capital , Truck_Tata_Ace_Default_2017_D_MT
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Wagonr_Default_2021_P_MT
+:::::::::::::: Livguard / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: IntelliOne / Upgrid_Mobility , ____0__
+:::::::::::::: Pibeam , Bike_Pibeam_PIMO_Default_2021_EV_AT
+:::::::::::::: Eastman / E_ChargeUp , BMS_Eastman_51.2V-105AH_Webber 500_2023_EV_AT
+:::::::::::::: Crut_Aruna , eRickshaw_Mahindra_Treo_Zor_2021_EV_AT
+:::::::::::::: GoEv , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: BikeBazaar , Bike_Quantum_Bziness Pro_Default_2023_EV_AT
+:::::::::::::: Amplus , Car_BYD E6_BYD E6_Default_2023_EV_AMT
+:::::::::::::: RoyalBrothers , Bike_Triumph_Scrambler 400X_Default_2023_P_MT
+:::::::::::::: One_World_Mobility , eBike_Bounce_Infinity_Default_2024_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Hyundai_Grand i10_Default_2020_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_Fascino_Default_2023_P_AT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Sonalika_2024_EV_AT
+:::::::::::::: Noori_Travels , Car_Honda_City_VX MT_2018_P_AMT
+:::::::::::::: EVM_secondarydevice , Car_Mahindra_Scorpio_Default_2020_P_MT
+:::::::::::::: seiger_technologies , BMS_Seiger_51v45Ah_Default_2024_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSX48-032 20CEB_Eicher_2023_EV_AT
+:::::::::::::: Livguard / IntelliOne / Upgrid_Mobility , BMS_Livguard_BMS_WK_16S_LFP_48V_60A_V4_2023_EV_AT
+:::::::::::::: Madikeri_Police , Car_Maruti_Ertiga_ZXI_2020_D_MT
+:::::::::::::: Cygni , BMS_Cygni_52V_Default_2023_EV_AT
+:::::::::::::: Madikeri_Police , Truck_Eicher_30.25XP_Default_2018_D_MT
+:::::::::::::: HWY Rider , Bike_KTM_390 Adventure X_Default_2022_P_MT
+:::::::::::::: bb2_inverted / Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022__AT
+:::::::::::::: Rideriver / MBSI_PVT_LTD , eBike_Rideriver_Gen1_indie_2024_EV_AT
+:::::::::::::: Amplus , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: vidyuttech_API , eRickshaw_Mahindra_Treo_Zor_2021_EV_AT
+:::::::::::::: Ecosperity , ____0__
+:::::::::::::: RoyalBrothers , Bike_Honda_Activa 5G_Default_2020_P_MT
+:::::::::::::: Noori_Travels , Car_Nissan_Sunny_Default_2017_D_MT
+:::::::::::::: Magenta , eRickshaw_Mahindra_Zor Grand_DV+_2022_EV_AT
+:::::::::::::: Akira , BMS_Akira_JBD250_Default_2024_EV_AT
+:::::::::::::: Gudz , eBike_Shema Electric_Low Speed_Default_2024_EV_AT
+:::::::::::::: BS_Devices_Simsterminated / Trontek , BMS_Trontek_51V_14S NMC_2023_EV_AT
+:::::::::::::: Eastman , BMS_Eastman_51.2V-105AH_Webber 500_2023_EV_AT
+:::::::::::::: Biliti_Electric / Abroad_Clients , Inverter_SRNE_2024_Biliti_2024_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto / IntelliOne , eRickshaw_MLR Auto_Eltra_DV_SEG+Exicom_2023_EV_AT
+:::::::::::::: Mangalore_police , Car_Tata_Sumo_Default_2016_D_MT
+:::::::::::::: MBSI_PVT_LTD , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: MG_Motors , Car_MG_Windsor_Default_2024_EV_AT
+:::::::::::::: Pixcell , BMS_Pixcell_48V_Default_2023_EV_AT
+:::::::::::::: MUPL / Gensol , Tata ace_Tata_Tata Ace_EV_2023_EV_AT
+:::::::::::::: super_mexx , ____0__
+:::::::::::::: Ola_Electric , eBike_OLA_S1_Default_2022_EV_AT
+:::::::::::::: MG_Motors , Car_MG_zs EV_Exclusive_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Ameo_Default_2017_D_MT
+:::::::::::::: RoyalBrothers , Bike_TVS_JUPITER_Default_2020_P_AT
+:::::::::::::: EVM_secondarydevice , Car_Tata_Safari Storme_Default_2017_D_MT
+:::::::::::::: Livguard / Upgrid_Mobility , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: IC_Energy_Meter , ____0__
+:::::::::::::: tork , ____0__
+:::::::::::::: DriveO , ____0__
+:::::::::::::: Mooving_Mobility / Livguard / IntelliOne , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: LA5.IC.OPS / Trontek , BMS_Trontek_76V_Default_2022_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_ePRO_Cargo_2021_EV_MT
+:::::::::::::: bb2_inverted / Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Celerio_Default_2019_P_AT
+:::::::::::::: blrtrafficpolice , Bike_Bajaj_Pulsar 150_Default_2023_P_MT
+:::::::::::::: Upgrid_Mobility , ____0__
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD200A_Mercury_2024_EV_AT
+:::::::::::::: Magenta , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: MBSI_PVT_LTD / EOLTest_Pass_2024 , ____0__
+:::::::::::::: Greenifit , eBike_HEROelectric_NYX e5_HX_2022_EV_AT
+:::::::::::::: Livguard_Ver2 / Livguard / IntelliOne , BMS_Livguard_BMS_WK_16S_LFP_48V_60A_V4_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_KTM_Duke 200_Default_2017_P_MT
+:::::::::::::: IndusGo , Car_Maruti_Brezza_Default_2020_D_MT
+:::::::::::::: Noori_Travels , Car_Toyota_Innova_Default_2017_D_MT
+:::::::::::::: DeviceManagement , Car_MG_zs EV_Exclusive_2022_EV_AT
+:::::::::::::: lithium , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Toyota_Glanza_Default_2021_P_AT
+:::::::::::::: eTrio / Perpetuity_Capital , eRickshaw_Etrio_TOURO MAX_Default_2020_EV_AT
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022__AT
+:::::::::::::: EVM_secondarydevice / Sundaram_Finance_Demo , Car_Volkswagen_Tiguan_Default_2021_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Micra_Default_2018_P_AT
+:::::::::::::: MBSI_PVT_LTD , eBike_BGauss_C12_Default_2022_EV_AT
+:::::::::::::: EVMGroup , Bike_KTM_390 Adventure X_Default_2022_P_MT
+:::::::::::::: Quantum , eBike_Quantum_Bziness_MCU 500_2023_EV_AT
+:::::::::::::: Cargar , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: Houstan , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: Greendrive / Quantum , eBike_Quantum_Bziness_Trontek BMS_2023_EV_AT
+:::::::::::::: Ecomile_tech , BMS_Ecomile_51V_	51V 100Ah _2024_EV_AT
+:::::::::::::: Livguard_Ver2 / Upgrid_Mobility , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: MBSI_PVT_LTD , BMS_micronix_52V_Default_2023_EV_AT
+:::::::::::::: Trontek , BMS_Trontek_51V_Battery Smart 500K Protocol_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Skoda_KUSHAQ_Default_2021_P_MT
+:::::::::::::: IndusGo , Car_Maruti_Baleno_Default_2020_P_MT
+:::::::::::::: RoyalBrothers / demo.hero , Bike_Honda_Dio_Default_2023_P_AT
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD200A_Field Marshal_2023_EV_AT
+:::::::::::::: VVIP_Police , Car_Maruti_Ertiga_VDi_2019_D_MT
+:::::::::::::: Ipower / HMC / Upgrid_Mobility , BMS_iPower_iPower_Daly 250_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Bajaj_Avenger Cruise 220_Default_2017_P_MT
+:::::::::::::: Ecomile_tech , BMS_Ecomile_48V/30Ah LFP_Default_2023_EV_AT
+:::::::::::::: TaSki / DriveO , Car_Tata_Tigor_Xpress T Ziptron_2023_EV_AT
+:::::::::::::: SEG_Automotive , eRickshaw_JS Auto_NV Electric_Passenger_2024_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Suzuki_Gixxer 250_Default_2021_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Magnite_Default_2021_P_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Polo_Default_2019_P_MT
+:::::::::::::: RoyalBrothers , Bike_Honda_Activa_Default_2019_P_CVT
+:::::::::::::: blrtrafficpolice / PoliceInspectors_law_order , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: PointO , BMS_CLN Energy_48 V_48V 100Ah_2024_EV_AT
+:::::::::::::: ICProduction / Livguard / IntelliOne , BMS_Livguard_BMS_WK_16S_LFP_48V_60A_V4_2023_EV_AT
+:::::::::::::: Charzer / MG_Motors / Quick_Ride , Car_MG_zs EV_Exclusive_2022_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS / PoliceInspectors_law_order , Car_Maruti_Ertiga_Default_2023_P_MT
+:::::::::::::: Api_Demo , Car_Honda_Amaze_1.2sx_2015_P_MT
+:::::::::::::: MoveInSync , Car_Tata_Tigor_Xpress T Ziptron_2023_EV_AT
+:::::::::::::: Livguard , BMS_Livguard_48V_V4_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Bajaj_Pulsar 150_Default_2023_P_MT
+:::::::::::::: MUPL , eRickshaw_TATA_ACE_EV_2023_EV_AT
+:::::::::::::: New_Pandian_Travels , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Magnite_Default_2021_P_MT
+:::::::::::::: IntelliOne , eRickshaw_MLR Auto_Eltra_Cargo_SEG+Exicom_2023_EV_AT
+:::::::::::::: Perpetuity_Capital , eRickshaw_Omega_Seiki rage+_Default_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Himalayan Scram 411_Default_2024_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Activa 5G_Default_2020_P_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Upgrid_Mobility , BMS_Greenfuel_48V_V3_2022_EV_AT
+:::::::::::::: BikeBazaar / Quantum , eBike_Quantum_Bziness_Trontek BMS_2023_EV_AT
+:::::::::::::: Charzer , Car_BYD E6_BYD E6_Default_2021_EV_AMT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Bajaj_Pulsar 150_Default_2023_P_MT
+:::::::::::::: Noori_Travels , Car_Honda_Amaze_Default_2020_P_MT
+:::::::::::::: LA5.IC.OPS / Inverted_energy , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: Trontek , BMS_Trontek_51V105Ah_Ver 2.1 - JK 250K_2023_EV_AT
+:::::::::::::: Eastman , BMS_Eastman_EM LFP S 51105 N_JBD CAN 250_2024_EV_AT
+:::::::::::::: vidyuttech_API , eRickshaw_Mahindra_Zor Grand_DV+_2022_EV_MT
+:::::::::::::: Mooving_Mobility / ICProduction / Livguard / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Magnite_Default_2020_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Activa 5G_Default_2018_P_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Hero_Xpulse_200_2023_P_AT
+:::::::::::::: Moove , Car_Tata_Xpres-T_Ziptron_2024_EV_AT
+:::::::::::::: EVMGroup , Bike_Bajaj_Pulsar N 150_Default_2024_P_MT
+:::::::::::::: Perpetuity_Capital , Car_Maruti_Swift_Zxi +_2018_P_MT
+:::::::::::::: ZyppElectric , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: E_ChargeUp / Greenfuel / Upgrid_Mobility , BMS_Greenfuel_48V_Electrifuel_V1_2023_EV_AT
+:::::::::::::: swiftcurrent_demo / Inverted_energy , BMS_Inverted_48V_Default_2022_EV_AT
+:::::::::::::: Madikeri_Police , Bus_Tata_Bus_Default_2017_D_MT
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD200A_Bharat_2023_EV_AT
+:::::::::::::: EmoEnergy , ____0__
+:::::::::::::: RoyalBrothers , Bike_Suzuki_VStrom_SX 250_2022_P_MT
+:::::::::::::: BS_Devices_Simsterminated / stefen_electric , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: DriEV_Demo / Inverted_energy , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: DeviceManagement / Tata_Demo , Truck_Eicher_pro 3019_Default_2023_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Meteor 350 steller_Default_2023_P_MT
+:::::::::::::: ZyppElectric / Trontek , BMS_Trontek_51V105Ah_Trontek_REV 1.3_2024_EV_AT
+:::::::::::::: VVIP_Police , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: Stride , eRickshaw_Bajaj_Maxima_Cargo_2024_EV_AT
+:::::::::::::: Adani_Wilmar , ____0__
+:::::::::::::: IndusGo , Car_Maruti_Swift_VXI_2020_P_MT
+:::::::::::::: Refex_Green_Mobility / MG_Motors , Car_MG_zs EV_Exclusive_2022_EV_AT
+:::::::::::::: Charzer , Car_Tata_Tigor_Xpress T Ziptron_2023_EV_AT
+:::::::::::::: Livguard_Ver2 / IntelliOne / Upgrid_Mobility , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: HWY Rider , Bike_TVS_Scooty pep_Default_2017_P_MT
+:::::::::::::: Street_Corner , eBike_Jitendra_FAE Bikes_Default_2021_EV_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Hero_PLEASURE+_Default_2023_P_AT
+:::::::::::::: renon , BMS_Renon_48V_Default_2021_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_Eltra_City_SEG+Exicom_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Classic 350_Default_2017_P_MT
+:::::::::::::: HWY Rider , Bike_Royal Enfield_Hunter _350_2023_P_MT
+:::::::::::::: Greenifit , eBike_RunR_Mec HS_Default_2023_EV_AT
+:::::::::::::: okaya , eBike_OKaya_EVs_Default_2022_EV_MT
+:::::::::::::: Eastman , BMS_Eastman_51V105 Ah_JBD 16S 60A_2024_EV_AT
+:::::::::::::: Gemopai , eBike_Gemopai_Ryder_High Speed_2024_EV_AT
+:::::::::::::: Trontek , BMS_Trontek_51V_Trontek BMS 250K_2023_EV_AT
+:::::::::::::: lithium , Car_Tata_Xpress -T_Electra_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Datsun Redi Go_Default_2019_P_AT
+:::::::::::::: Noori_Travels , Car_Toyota_Innova crysta_Default_2022_D_AT
+:::::::::::::: Perpetuity_Capital , eRickshaw_Atul_Elite_Elite+_Default_2023_EV_AT
+:::::::::::::: Inverted_energy , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: KHT_agencies / Blusmart , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Gogoro , eBike_Gogoro_GX250_PUX_2024_EV_AT
+:::::::::::::: EOLTest_Pass_2024 , ____0__
+:::::::::::::: TVS_Motors , Auto_Mahindra_Jeeto_Jeeto_2022_P_MT
+:::::::::::::: eTrio , eRickshaw_Etrio_TOURO MAX_Default_2023_EV_AT
+:::::::::::::: Ambit_batteries , BMS_Ambit_52V_Default_2024_EV_AT
+:::::::::::::: Neuron / Upgrid_Mobility , BMS_Neuron_52 V_Battery Smart 500K_2023_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSR48-038 20CEB_Eicher_2023_EV_AT
+:::::::::::::: Bakertilly , Car_Tata_Harrier_Default_2019_D_AT
+:::::::::::::: Greenfuel , BMS_Greenfuel_48V_Default_2022_EV_AT
+:::::::::::::: Turno , eRickshaw_Mahindra_Treo_Zor_2021_EV_AT
+:::::::::::::: Perpetuity_Capital , eRickshaw_Montra Electric_ePV_Default_2023_EV_AT
+:::::::::::::: Battrixx / Upgrid_Mobility , BMS_Inverted_51.6V_Inverted_JBD_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_MT 03_Default_2024_P_MT
+:::::::::::::: Livguard / Upgrid_Mobility , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: Tata_Demo , Truck_Ashok Leyland_4020 AG_Default_2022_D_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Hunter _350_2023_P_MT
+:::::::::::::: vidyuttech_API / MahindraDemo , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2023_EV_AT
+:::::::::::::: shortterm_storage / stefen_electric / Upgrid_Mobility , BMS_Stefen_48V_Default_2022_EV_AT
+:::::::::::::: DeviceManagement / Tata_Demo , ____0__
+:::::::::::::: Sparrow_Mobility , ____0__
+:::::::::::::: EVM_secondarydevice , Car_Skoda_KUSHAQ_Default_2022_P_MT
+:::::::::::::: Vgoocars , Car_Maruti_Swift_Zxi +_2018_P_MT
+:::::::::::::: Likraft / ZyppElectric , BMS_Likraft_50.4V 60Ah_JK250_2024_EV_AT
+:::::::::::::: Quantum / Trontek , eBike_Quantum_Bziness_MCU 500_2023_EV_AT
+:::::::::::::: dhatri , Car_Maruti_Dzire_Default_2023_D_MT
+:::::::::::::: Ecomile_tech , BMS_Ecomile_52V-14C,4T_Default_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Hero_Xpulse_200_2023_P_AT
+:::::::::::::: New_Pandian_Travels , ____0__
+:::::::::::::: Noori_Travels , Car_Toyota_Innova Crysta_Default_2018_D_MT
+:::::::::::::: Amplus , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2023_EV_AT
+:::::::::::::: Livguard_Ver2 / Livguard / BS_Devices_Simsterminated / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Greendrive , eBike_BGauss_D15i_Default_2022_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Yamaha_Aerox 155_Default_2021_P_MT
+:::::::::::::: EVM_secondarydevice , Car_MG_Hector_ZX_2019_P_MT
+:::::::::::::: virya_mobility , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2023_EV_AT
+:::::::::::::: MUPL , eRickshaw_Omega_Seiki rage+_Default_2023_EV_AT
+:::::::::::::: Gensol , eRickshaw_Altigreen_NEEV HD_EV_2021_EV_AT
+:::::::::::::: pointerrefuel / IndusGo , Car_Ford_Ecosport_Default_2019_D_MT
+:::::::::::::: sid2007jaingmail.com / Mooving_Mobility / ICProduction / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Noori_Travels , Car_Maruti_Ertiga_Default_2023_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Aprilia_SR 150_Default_2017_D_AT
+:::::::::::::: MoveInSync / Basaveshwara_ToursandTravels , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Car_Tata_Xpress -T_Default_2021_EV_AT
+:::::::::::::: Maverick_Motors , Bike_Royal Enfield_Hunter _350_2023_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Activa 5G_Default_2018_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Skoda_KUSHAQ_Default_2020_D_AT
+:::::::::::::: Akira , BMS_Akira_60.8V 200 Ah_JBD 500_2024_EV_AT
+:::::::::::::: AradhyaFleet , Car_Maruti_Swift_Default_2022_P_MT
+:::::::::::::: ScooEV_Sigrid , eBike_Ampere_Magnus_Default_2022_EV_MT
+:::::::::::::: Log9 , eBike_Log9_Rapid EV_v1_2021_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Honda_Hness_Default_2023_P_MT
+:::::::::::::: Ohm_Automotives , Car_BYD E6_BYD E6_Default_2023_EV_AMT
+:::::::::::::: HWY Rider , Bike_Royal Enfield_Himalayan_Default_2017_P_MT
+:::::::::::::: sid2007jaingmail.com / Mooving_Mobility / ICProduction / Livguard / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Livguard_Ver2 / Mooving_Mobility / Livguard / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: EVM_secondarydevice , Car_Skoda_Rapid_Default_2020_P_MT
+:::::::::::::: Likraft , BMS_Likraft_51.8V 35AH_JK250_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_Aerox 155_Default_2023_P_AT
+:::::::::::::: RoyalBrothers , Bike_Honda_Activa_5G_2021_P_AT
+:::::::::::::: SEG_Automotive , eRickshaw_JSAuto_NV Electric_Passenger_2024_EV_AT
+:::::::::::::: HWY Rider , Bike_TVS_NTORQ_Default_2023_P_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Suzuki_VStrom_SF250_2023_P_AT
+:::::::::::::: Blusmart , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Perpetuity_Capital , eRickshaw_eblu_Rozee_Default_2023_EV_AT
+:::::::::::::: IndusGo_Bikes , Bike_Honda_Activa_Default_2023_P_AT
+:::::::::::::: Likraft , BMS_Likraft_51.2V 45Ah LFP_Vecmocon500_2023_EV_AT
+:::::::::::::: Turno / Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_ePRO_Cargo_SEG+Exicom_2023_EV_AT
+:::::::::::::: Livguard , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Swift_Default_2019_D_MT
+:::::::::::::: Greenfuel / Upgrid_Mobility , BMS_Greenfuel_JBD_Default_2023_EV_AT
+:::::::::::::: Amplus / Abroad_Clients , Car_BYD_Atto 3_EV_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Interceptor 650_Default_2018_P_MT
+:::::::::::::: Livguard / Upgrid_Mobility , BMS_Livguard_48V_V4_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_Fz_Default_2023_P_MT
+:::::::::::::: Noori_Travels , Car_Toyota_Innova Hycross_Default_2022_D_AT
+:::::::::::::: ergonlabs , Vehicle_Vehicle_Vehicle_Default_2017_D_MT
+:::::::::::::: blrtrafficpolice / PoliceInspectors_law_order , Car_Mahindra_Bolero_CBCPS 1.5T BS4_2018_D_MT
+:::::::::::::: Cygni / Upgrid_Mobility , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_VSR48-024 20CEB_Lister_2024_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Wagonr_Default_2021_P_MT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Yamaha_MT 15_Default_2021_P_MT
+:::::::::::::: Greendrive / omegaseiki / Turno , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Go+_Default_2019_P_AT
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Swift_Default_2021_P_MT
+:::::::::::::: Volttic_Synergies , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: ScooEV_Sigrid , eBike_HEROelectric_NYX e5_HX_2022_EV_AT
+:::::::::::::: IndusGo , Car_Toyota_Innova Hycross_Default_2022_D_AT
+:::::::::::::: RoyalBrothers , Bike_Honda_Activa 5G_Default_2020_P_AT
+:::::::::::::: DeviceManagement , BMS_Stefen_48V_Default_2022_EV_AT
+:::::::::::::: Zen_Mobility , E-Cargo_Zen_ZEN MICROPOD_Default_2024_EV_AT
+:::::::::::::: Rideriver , eBike_Rideriver_Gen1_indie_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Suzuki_Access_Default_2023_P_AT
+:::::::::::::: Refex_Green_Mobility , Car_Tata_Nexon_Default_2024_EV_AT
+:::::::::::::: VVIP_Police , Car_Maruti_Ertiga_Default_2017_P_MT
+:::::::::::::: Mahindra_LMM , ____0__
+:::::::::::::: ICProduction / Livguard / IntelliOne / Upgrid_Mobility , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Perpetuity_Capital , eRickshaw_Euler_HiLoad_AT_2021_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Harley Davidson_X 400_Default_2022_P_MT
+:::::::::::::: DriveO / Blusmart , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_TVS_Apache_RR310_2018_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Toyota_Innova Hycross_Default_2022_D_AT
+:::::::::::::: Livguard , BMS_Livguard_48V_V2_2022_EV_AT
+:::::::::::::: EVMGroup , Bike_Honda_Dio_Default_2023_P_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Xblade_Default_2019_P_MT
+:::::::::::::: Magenta , eRickshaw_Altigreen_NEEV HD_EV_2021_EV_AT
+:::::::::::::: Greenifit , eBike_HEROelectric_NYX e5_Default_2018_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Brezza_ZXI_2021_P_MT
+:::::::::::::: IntelliOne , eRickshaw_MLR Auto_Eltra_City_SEG+Exicom_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Kawasaki_Ninja 300_Default_2024_P_MT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Eicher_2023_EV_AT
+:::::::::::::: Inverted_energy , BMS_Inverted_51.6V_Inverted_JBD_2023_EV_AT
+:::::::::::::: Mooving_Mobility / IntelliOne , BMS_Livguard_BMS_WK_16S_LFP_48V_60A_V4_2023_EV_AT
+:::::::::::::: Magenta / Perpetuity_Capital , eRickshaw_Euler_HiLoad_AT_2021_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Hero_Maestro Edge_Default_2018_P_MT
+:::::::::::::: Madikeri_Police , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: Exicom , BMS_Exicom_48V - BS_Demo_2024_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Aprilia_SR 160_Default_2023_P_AT
+:::::::::::::: ScooEV_Sigrid / Quantum , eBike_Quantum_Bziness_Trontek BMS_2023_EV_AT
+:::::::::::::: Lohia , eRickshaw_Lohia_Humsafar L5_Default_2022_EV_AT
+:::::::::::::: IntelliOne / Upgrid_Mobility , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: CLN_Energy , BMS_CLN Energy_64.V_64V 105Ah_2024_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Vento_Default_2019_D_AT
+:::::::::::::: Inverted_energy , ____0__
+:::::::::::::: Turno , eRickshaw_Altigreen_NEEV HD_EV_2021_EV_AT
+:::::::::::::: micronix , ____0__
+:::::::::::::: omegaseiki / Turno , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: Maverick_Motors , Bike_Royal Enfield_Interceptor 650_650_2021_P_MT
+:::::::::::::: Kineticgreen , eRickshaw_Kinetic_Safar_Default_2018_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Hunter _350_2022_P_MT
+:::::::::::::: Metafin , ____0__
+:::::::::::::: PointO / Battrixx / Upgrid_Mobility , BMS_Battrixx_48v_Superpower_Default_2024_EV_AT
+:::::::::::::: Noori_Travels , Car_Maruti_Wagonr_Default_2023_CNG_MT
+:::::::::::::: BS_Devices_Simsterminated / stefen_electric / Upgrid_Mobility , BMS_Stefen_48V_Default_2022_EV_AT
+:::::::::::::: Eastman / E_ChargeUp , BMS_Eastman_ EM LFP S 51105 G_JBD CAN 250_2024_EV_AT
+:::::::::::::: Turno / MTA_emobility , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: RoyalBrothers / demo.hero , Bike_Honda_Activa 5G_Default_2020_P_MT
+:::::::::::::: DeviceManagement / Turno , eRickshaw_Mahindra_Treo_Zor_2021_EV_AT
+:::::::::::::: Mooving_Mobility / Livguard / IntelliOne , BMS_Livguard_BMS_WK_16S_LFP_48V_60A_V4_2023_EV_AT
+:::::::::::::: Augmentaa , ____0__
+:::::::::::::: Noori_Travels , Car_Maruti_INVICTO_Default_2024_P_AT
+:::::::::::::: MUPL , Car_Maruti_Brezza_Default_2020_D_MT
+:::::::::::::: PointO , BMS_Neuron_51.2V 86Ah_LPF_2023_EV_AT
+:::::::::::::: Greendrive / omegaseiki / vidyuttech_API , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Mahindra_XUV 3x0_Default_2024_P_MT
+:::::::::::::: stefen_electric / Upgrid_Mobility , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: HWY Rider , Bike_Honda_Dio_Default_2023_P_AT
+:::::::::::::: Greaves_2W_Ampere , eRickshaw_Ampere_Zeal EX_Default_2023_P_AT
+:::::::::::::: HWY Rider , Bike_Harley Davidson_X 400_Default_2022_P_MT
+:::::::::::::: Greendrive / Quantum , eBike_Quantum_Bziness_Daly 500 BMS_2023_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Royal Enfield_Meteor 350 steller_Default_2020_P_MT
+:::::::::::::: DeviceManagement , BMS_Lithion_Battery_48V_2022_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Jimny_Default_2023_P_MT
+:::::::::::::: demo.praj , Power Train_Kalyani_Version 1_Default_2022_EV_AT
+:::::::::::::: vidyuttech_API / Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_Eltra_Cargo_SEG+Exicom_2023_EV_AT
+:::::::::::::: shortterm_storage / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: BikeBazaar , eBike_Quantum_Bziness_EV_2023_EV_AT
+:::::::::::::: EEE_TAXI , Car_Tata_Tiago_Xpress T_2023_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD200A_Kirloskar_2024_EV_AT
+:::::::::::::: Greentiger , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: Street_Corner , eBike_SuperTech_SuperTech_Default_2021_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS / blrtrafficpolice / PoliceInspectors_law_order , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: Vgoocars , Car_Volkswagen_Polo_Default_2019_P_MT
+:::::::::::::: Gemopai / ElectrifiMobility , eBike_Gemopai_Ryder_Low Speed _2024_EV_AT
+:::::::::::::: EVMGroup , Bike_TVS_Apache_RTR160_2023_P_AT
+:::::::::::::: IntelliOne / EOLTest_Pass_2024 , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: MBSI_PVT_LTD , eBike_Jitendra_JMT 1000 HS_Default_2022_EV_AT
+:::::::::::::: Livguard_Ver2 / Mooving_Mobility / Livguard / BS_Devices_Simsterminated , BMS_Livguard_48V_V2_2022_EV_AT
+:::::::::::::: Tata_Demo , Truck_Ashok Leyland_4420 AG_Default_2022_D_MT
+:::::::::::::: Turno_API / Turno , eBike_test_test_Default_2020_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Honda_Honda CB 350_Default_2023_P_AT
+:::::::::::::: city_Armed_Reserve , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: PointO / Inverted_energy , BMS_Inverted_51V105AH_JBD_2023_EV_AT
+:::::::::::::: IntelliOne , BMS_Livguard_48V_V4_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Suzuki_Access_Default_2023_P_AT
+:::::::::::::: Biliti_Electric , Inverter_UZ Energy_500K_Default_2023_EV_AT
+:::::::::::::: Battrixx , BMS_Battrixx_48v_Superpower_Default_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_TVS_Apache_RTR160_2022_P_MT
+:::::::::::::: MoveInSync , Bus_Olectra_Olectra_Default_2024_EV_AT
+:::::::::::::: Noori_Travels , Car_Tata_Zest_Default_2017_D_MT
+:::::::::::::: Noori_Travels , Car_Maruti_Ciaz_Default_2024_CNG_AT
+:::::::::::::: Greendrive / vidyuttech_API , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: MUPL / DriveO , Tata ace_Tata_Tata Ace_EV_2023_EV_AT
+:::::::::::::: Noori_Travels , Car_Nissan_Sunny_Default_2018_D_MT
+:::::::::::::: blrtrafficpolice / ACP_law_and_order , Car_Mahindra_Bolero_Default_2019_D_MT
+:::::::::::::: IEX_Energy , ECU_IX Energy_IX_Default_2021_EV_AT
+:::::::::::::: Greendrive / Quantum , eBike_Quantum_Bziness_EV_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Traveller_Force_Traveller_Default_2020_D_MT
+:::::::::::::: Tata_Demo , ____0__
+:::::::::::::: Inverted_energy , BMS_Inverted_51.6V_Inverted_Daly_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Kicks_Default_2019_P_MT
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_SuperPower_BMS_16S_60A_LFP _2024_EV_AT
+:::::::::::::: PoliceInspectors_law_order , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: Trontek , BMS_Trontek_51V_Default_2022_EV_AT
+:::::::::::::: shizenenergy , BMS_Shizenenergy_48.1V 106Ah_JBD 21S 300A_2024_EV_AT
+:::::::::::::: Likraft , BMS_Likraft_60V 24Ah LFP_JBD250_2022_EV_AT
+:::::::::::::: shizenenergy , BMS_Shizenenergy_74V 120Ah_JBD 21S 300A_2024_EV_AT
+:::::::::::::: Amplus / Quantum , eBike_Quantum_Bziness_Trontek BMS_2023_EV_AT
+:::::::::::::: Livguard / IntelliOne , BMS_Livguard_48V_V4_2023_EV_AT
+:::::::::::::: Eastman , ____0__
+:::::::::::::: Madikeri_Police , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: Livguard / IntelliOne / Upgrid_Mobility , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: Adani_Wilmar , Car_Toyota_Innova crysta_Default_2019_D_MT
+:::::::::::::: EVM_secondarydevice , Car_Honda_Amaze_Default_2020_P_MT
+:::::::::::::: FAE_Bikes / MBSI_PVT_LTD , eBike_Jitendra_JMT 1000 HS_Default_2022_EV_AT
+:::::::::::::: Perpetuity_Capital , eRickshaw_Etrio_TOURO MAX_Default_2020_EV_AT
+:::::::::::::: MBSI_PVT_LTD / demo.hero , Bike_Hero_PLEASURE+_Default_2020_P_AT
+:::::::::::::: MUPL , eRickshaw_Mahindra_Zor Grand_DV+_2022_EV_AT
+:::::::::::::: Livguard_Ver2 / Livguard / Upgrid_Mobility , BMS_Livguard_48V_V2_2022_EV_AT
+:::::::::::::: Refex_Green_Mobility , Car_MG_zs EV_Exclusive_2022_EV_AT
+:::::::::::::: HWY Rider , Bike_Honda_Activa_6G_2020_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Wagonr_Default_2021_P_AT
+:::::::::::::: IntelliOne , BMS_Livguard_BMS_WK_16S_LFP_48V_60A_V4_2023_EV_AT
+:::::::::::::: eTrio , eRickshaw_Etrio_TOURO MAX_Default_2020_EV_AT
+:::::::::::::: Murugappa_Travels , Truck_Ashok Leyland_Dost_Default_2023_D_MT
+:::::::::::::: LA5.IC.OPS , ____0__
+:::::::::::::: DMT , ____0__
+:::::::::::::: IndusGo_SecondaryDevice , Car_Maruti_Brezza_ZXI_2021_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Ameo_Default_2016_D_AT
+:::::::::::::: LA5.IC.OPS , BMS_Sanvaru_Battery_Default_2022_EV_AT
+:::::::::::::: Perpetuity_Capital , Car_Mahindra_Xylo_D42WD_2016_D_MT
+:::::::::::::: Neuron , BMS_Neuron_52 V_Battery Smart 500K_2023_EV_AT
+:::::::::::::: HWY Rider , Bike_Honda_Activa_Default_2019_P_CVT
+:::::::::::::: seiger_technologies , BMS_Seiger_52v 45Ah_Default_2024_EV_AT
+:::::::::::::: blrtrafficpolice , Bike_TVS_Apache_RTR160_2022_P_MT
+:::::::::::::: E_ChargeUp / Greenfuel , BMS_Greenfuel_48V_V3_2022_EV_AT
+:::::::::::::: Propel , Truck_Propel_E-Truck_Default_2024_EV_AT
+:::::::::::::: Trontek / Upgrid_Mobility , BMS_Trontek_51V_Battery Smart 500K Protocol_2024_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_Eltra_Cargo_Tork+Amaron_2022_EV_AT
+:::::::::::::: Stride , Auto_Bajaj_Maxima_Default_2020_D_MT
+:::::::::::::: DMT / Blusmart / EOLTest_Pass_2024 , Car_MG_zs EV_Exclusive_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Kia_Carens G_1.5_2024_P_MT
+:::::::::::::: RoyalBrothers , Bike_Bajaj_Avenger Cruise 220_Default_2024_P_MT
+:::::::::::::: Eastman , BMS_Eastman_51V-150Ah_Electric Fuel 16S/100A_2024_EV_AT
+:::::::::::::: Cygni , ____0__
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Activa_6G_2020_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_CB 300_Default_2022_P_AT
+:::::::::::::: MoveInSync , Car_Tata_Xpres-T_Ziptron_2024_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_ePRO_Cargo_2021_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Himalayan 452_Default_2024_P_MT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_VSR48-038 20CEB_Default_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Aprilia_SR 160_Default_2023_P_AT
+:::::::::::::: Greenfuel / BS_Devices_Simsterminated , BMS_Greenfuel_48V_V2_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Vento_HIGHLNE_2021_P_AT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Kohinoor_2024_EV_AT
+:::::::::::::: IntelliOne , BMS_Livguard_BMS White Knight 14S_48V_60A_V4_2023_EV_-
+:::::::::::::: EVM_secondarydevice / Sundaram_Finance_Demo , Car_Nissan_Datsun Redi Go_Default_2021_P_MT
+:::::::::::::: Inverted_energy , BMS_Inverted_48V_SuperPower_BMS_16S_60A_LFP _2024_EV_AT
+:::::::::::::: vidyuttech_API / Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_Eltra_City_SEG+Exicom_2023_EV_AT
+:::::::::::::: FAE_Bikes , eBike_HCD india_NPS Cargo_Default_2023_EV_AT
+:::::::::::::: Krishniah Chetty and Sons , Car_Tata_Winger_Default_2018_D_MT
+:::::::::::::: Ipower / HMC , BMS_iPower_iPower_Daly 500_2023_EV_AT
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Inverted_51V105AH_JBD_2023_EV_AT
+:::::::::::::: PointO , BMS_CLN Energy_52 V_ 51.2V45Ah_2023_EV_AT
+:::::::::::::: Trontek / Upgrid_Mobility , BMS_Trontek_61V105Ah_trontek BMS - Rev1.1 500K_2024_EV_AT
+:::::::::::::: Abroad_Clients / MBSI_PVT_LTD , Bike_Yamaha_crux_Default_2023_P_MT
+:::::::::::::: Perpetuity_Capital , eRickshaw_Omega_Seiki_Default_2021_EV_AT
+:::::::::::::: Vike_Bike , ____0__
+:::::::::::::: Adani_Wilmar , Car_Toyota_Innova Crysta_Default_2021_P_MT
+:::::::::::::: Pibeam , ____0__
+:::::::::::::: Livguard / Inverted_energy , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: IndusGo_SecondaryDevice , Car_Maruti_Swift_Default_2021_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Bajaj_Pulsar 150_Default_2023_P_MT
+:::::::::::::: Sparrow_Mobility , Car_Maruti_Wagonr_Default_2023_CNG_MT
+:::::::::::::: IndusGo_SecondaryDevice , Car_Maruti_Ignis_Default_2018_D_MT
+:::::::::::::: Krishniah Chetty and Sons , Car_Maruti_Eeco_Default_2017_D_MT
+:::::::::::::: BS_Devices_Simsterminated / stefen_electric , BMS_Stefen_48V-Superpower_Default_2023_EV_AT
+:::::::::::::: EVMGroup , Bike_Yamaha_Fascino_Default_2023_P_AT
+:::::::::::::: BuyMyEV , ____0__
+:::::::::::::: VVIP_Police , Car_Toyota_Innova_G_2016_D_MT
+:::::::::::::: Battrixx , BMS_Battrixx_48V_Default_2023_EV_AT
+:::::::::::::: Livguard / IntelliOne , BMS_Livguard_BMS White Knight 14S_48V_60A_V4_2023_EV_-
+:::::::::::::: AltNxt_Energy , BMS_AltNxt_AltNxt_60V_2022_EV_AT
+:::::::::::::: DeviceManagement / DriveO , ____0__
+:::::::::::::: PointO / Neuron , BMS_Neuron_51.2V _51.2V 105Ah_2024_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Harley Davidson_X440_Default_2024_P_MT
+:::::::::::::: Ipower , BMS_iPower_51.2V  100Ah_Daly 250_2024_EV_AT
+:::::::::::::: Gemopai , ____0__
+:::::::::::::: blrtrafficpolice / PoliceInspectors_law_order , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: BikeBazaar , eBike_HEROelectric_NYX e5_HX_2022_EV_AT
+:::::::::::::: Livguard / BS_Devices_Simsterminated , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: BikeBazaar , eBike_Quantum_Bziness_Trontek BMS_2023_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_ePRO_City_SEG+Exicom_2023_EV_AT
+:::::::::::::: Stellantis , Car_Citroen_Citroen_Default_2022_D_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_BMW_G310GS_Default_2016_P_MT
+:::::::::::::: IndusGo , Car_Honda_City_Default_2019_P_MT
+:::::::::::::: coslight , ____0__
+:::::::::::::: Cygni / Upgrid_Mobility , BMS_Cygni_Cygni_52V_2023_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSX48-032 20CEB_Escorts_2024_EV_AT
+:::::::::::::: PointO / Pixcell , BMS_Pixcell_48V_Default_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Skoda_KUSHAQ_Default_2022_P_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_TVS_Apache_RTR200_2023_P_AT
+:::::::::::::: stefen_electric / Upgrid_Mobility , BMS_Stefen_48V_Default_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_MG_Hector_Default_2019_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_Ray ZR 125_Default_2023_P_AT
+:::::::::::::: E_ChargeUp / Greenfuel , BMS_Greenfuel_48V_V1_2019_EV_AT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Field Marshal_2023_EV_AT
+:::::::::::::: PointO , BMS_CLN Energy_60.8 V_60.8V 100 Ah _2024_EV_AT
+:::::::::::::: Zen_Mobility , ____0__
+:::::::::::::: IndusGo , Car_Maruti_Alto_Default_2019_P_MT
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSX48-032 20CEB_Default_2022_EV_AT
+:::::::::::::: examinationvehicles_BCP , Truck_Ashok Leyland_Truck_Default_2017_D_MT
+:::::::::::::: vidyuttech_API , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2023_EV_AT
+:::::::::::::: Quiqup_Innovations , eBike_BGauss_D15i_Default_2022_EV_AT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_VSR48-024 20CEB_Field Marshal_2023_EV_AT
+:::::::::::::: PointO / Battrixx , BMS_Battrixx_48v_Superpower_Default_2024_EV_AT
+:::::::::::::: Mangalore_police , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: Greenfuel , BMS_Greenfuel_51.2V_GF4_2024_EV_AT
+:::::::::::::: Zappit_Shoffr , Car_BYD_BYD EMax_Default_2024_EV_AT
+:::::::::::::: PointO , BMS_Neuron_51.2V 30Ah_LPF_2024_EV_AT
+:::::::::::::: FAE_Bikes , eBike_test_test_Default_2020_EV_AT
+:::::::::::::: TaSki , Car_BYD E6_BYD E6_Default_2021_EV_AMT
+:::::::::::::: One_World_Mobility , eBike_BGauss_D15i_Default_2023_EV_AT
+:::::::::::::: Stride , eRickshaw_Mahindra_Zor Grand_DV+_2022_EV_AT
+:::::::::::::: Pibeam , eBike_HEROelectric_Photon_Default_2018_EV_AT
+:::::::::::::: CLN_Energy , BMS_CLN Energy_51.2V_	 51.2V150Ah_2024_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_TVS_JUPITER_Default_2020_P_AT
+:::::::::::::: IndusGo , Car_Maruti_Celerio_ZXI_2018_P_AMT
+:::::::::::::: Likraft , BMS_Likraft_52V_51.2V 100Ah_2023_EV_AT
+:::::::::::::: MUPL / Quantum , eBike_Quantum_Bziness_500_Bziness XP_2024_EV_AT
+:::::::::::::: Turno / MUPL , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: SEPL , eBike_Simple Energy_Simple One_Default_2022_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS / city_Armed_Reserve , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: RoyalBrothers , Bike_Bajaj_Pulsar 200_ns_2018_2018_MT
+:::::::::::::: RoyalBrothers , Bike_TVS_Apache_RTR160_2023_P_AT
+:::::::::::::: Lohum / BS_Devices_Simsterminated , BMS_Lohum_50V_Default_2022_EV_AT
+:::::::::::::: IndusGo_Bikes , Bike_Royal Enfield_Bullet 350_Default_2017_P_MT
+:::::::::::::: Greaves_2W_Ampere , eBike_Ampere_Nexus_NXG_2024_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Redi Go_Default_2020_D_MT
+:::::::::::::: Mooving_Mobility / ICProduction / Livguard / IntelliOne , BMS_Livguard_BMS_WK_16S_LFP_48V_60A_V4_2023_EV_AT
+:::::::::::::: Greaves_2W_Ampere , eBike_Ampere_Magnus_MT 80_2024_EV_AT
+:::::::::::::: Madikeri_Police , Car_Maruti_Ertiga_Default_2020_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_Aerox 155_Default_2021_P_MT
+:::::::::::::: Street_Corner , eBike_Royal EV_Vegas	_Default_2021_EV_AT
+:::::::::::::: Arigs , Minitruck_Mahindra_Supro_Default_2024_EV_MT
+:::::::::::::: Perpetuity_Capital , eRickshaw_Mahindra_Alfa_Default_2023_EV_AT
+:::::::::::::: Bullwork_Mobility , ____0__
+:::::::::::::: Perpetuity_Capital , Car_Maruti_ECCO_Default_2019_CNG_MT
+:::::::::::::: RoyalBrothers , Bike_Honda_Activa_6G_2020_P_MT
+:::::::::::::: ACP_law_and_order , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Royal Enfield_Hunter _350_2023_P_MT
+:::::::::::::: MUPL , eRickshaw_ADM_Electroride_Default_2024_EV_AT
+:::::::::::::: virya_mobility , ____0__
+:::::::::::::: FAE_Bikes , eBike_Jitendra_JET _Default_2023_EV_AT
+:::::::::::::: Livguard / BS_Devices_Simsterminated / Upgrid_Mobility , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Nexa XL6_Alpha_2021_P_AT
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Magnite_Default_2020_P_AT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_VSX48-032 20CEB_No Genset_2023_EV_AT
+:::::::::::::: Ecomile_tech , BMS_Ecomile_51V_Default_2023_EV_AT
+:::::::::::::: mobile.test.group , ____0__
+:::::::::::::: Belrise_Industries , eBike_Bounce_Infinity_Default_2022_EV_MT
+:::::::::::::: MBSI_PVT_LTD , Car_Tata_Xpres-T_Ziptron_2024_EV_AT
+:::::::::::::: Monter , Car_Renault_Triber_Default_2020_P_MT
+:::::::::::::: AltNxt_Energy , BMS_AltNxt_AltNxt_67V_2022_EV_AT
+:::::::::::::: Quantum , eBike_Quantum_Bziness_500_Bziness XP_2024_EV_AT
+:::::::::::::: Livguard / IntelliOne / Upgrid_Mobility , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Ipower / Upgrid_Mobility , BMS_iPower_iPower_Daly 500_2023_EV_AT
+:::::::::::::: Mooving_Mobility / Livguard , BMS_Livguard_48V_V2_2022_EV_AT
+:::::::::::::: ScooEV_Sigrid , eBike_Quantum_Bziness_Trontek BMS_2023_EV_AT
+:::::::::::::: Inverted_energy , BMS_Inverted_48V_SuperPower_Default_2024_EV_AT
+:::::::::::::: ZyppElectric / Trontek , BMS_Trontek_51.2v45ah_Zypp_Trontek_2024_EV_AT
+:::::::::::::: ZeroLeap , Car_Tata_Xpress -T_Electra_2022_EV_AT
+:::::::::::::: Augmentaa , BMS_Augmentaa_OGO Energy_48V/100Ah_2024_EV_AT
+:::::::::::::: PointO / Upgrid_Mobility , BMS_CLN Energy_52 V_ 51.2V45Ah_2023_EV_AT
+:::::::::::::: beep_tech , ____0__
+:::::::::::::: ElectrifiMobility / Blusmart , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Stefen_48V-Superpower_Default_2023_EV_AT
+:::::::::::::: IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Sparrow_Mobility , Car_Maruti_Swift_Default_2022_P_MT
+:::::::::::::: Turno , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: Livguard_Ver2 / Livguard / IntelliOne / Upgrid_Mobility , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: TaSki / DriveO , Car_BYD E6_BYD E6_Default_2021_EV_AMT
+:::::::::::::: SHGGreentech , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: Pibeam , eBike_HEROelectric_NYX e5_HX_2022_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSR48-038 20CEB_Eicher_2024_EV_AT
+:::::::::::::: Tata_Demo , Truck_Tata_TATA LPT 4018_Default_2017_D_MT
+:::::::::::::: surja_automotives , eRickshaw_Surja automotives_DHEERA_51.2V_2024_EV_AT
+:::::::::::::: LA5.IC.OPS / stefen_electric / Upgrid_Mobility , BMS_Stefen_48V-Superpower_Default_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Tata_Nexon_Default_2024_P_MT
+:::::::::::::: alt_mobility / ETM_BIKES , eBike_BGauss_D15i_Default_2022_EV_AT
+:::::::::::::: Noori_Travels , Car_Toyota_Innova crysta_Default_2019_D_MT
+:::::::::::::: Mooving_Mobility / ICProduction / Livguard / IntelliOne , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: IndusGo_Bikes , Bike_Honda_Activa_6G_2020_P_MT
+:::::::::::::: BLR_POLICE_HOYSALAS / blrtrafficpolice , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: Trontek / Upgrid_Mobility , BMS_Trontek_51V_45 Ah_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_TVS_XL 100_Default_2023_P_MT
+:::::::::::::: DeviceManagement / FAE_Bikes , eBike_test_test_Default_2020_EV_AT
+:::::::::::::: Greendrive , eBike_HEROelectric_NYX e5_Default_2018_EV_AT
+:::::::::::::: BikeBazaar / Quantum , eBike_Quantum_Bziness_500_Bziness X_2024_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Toyota_Innova crysta_Default_2022_D_AT
+:::::::::::::: micronix , BMS_micronix_52V_Default_2023_EV_AT
+:::::::::::::: Rapido2 , Bike_Suzuki_VStrom_SF250_2021_P_MT
+:::::::::::::: Smrtiacademy , Tata ace_Tata_Tata Ace_Default_2018_EV_AT
+:::::::::::::: Greendrive , eBike_OKaya_Faast F4_Default_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Himalayan_Default_2023_P_MT
+:::::::::::::: Biliti_Electric , BMS_Biliti_52V_Default_2022_EV_AT
+:::::::::::::: TVS_RD , ____0__
+:::::::::::::: DeviceManagement , BMS_Greenfuel_48V_V1_2019_EV_AT
+:::::::::::::: E_ChargeUp / Greenfuel , BMS_Greenfuel_48V_Electrifuel_V1_2023_EV_AT
+:::::::::::::: Demo_2W / MBSI_PVT_LTD , eBike_BGauss_D15i_Default_2022_EV_AT
+:::::::::::::: vidyuttech_API / Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_Eltra_DV_SEG+Exicom_2023_EV_AT
+:::::::::::::: FAE_Bikes , eBike_HEROelectric_Photon_Default_2018_EV_AT
+:::::::::::::: PointO / Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: omegaseiki , ____0__
+:::::::::::::: dhatri , Car_Maruti_Swift_Default_2022_P_MT
+:::::::::::::: RoyalBrothers / demo.hero , Bike_Hero_DESTINI 125_Default_2020_P_AT
+:::::::::::::: ElectrifiMobility / Blusmart / demo.hero , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: CLN_Energy / PointO / Upgrid_Mobility , BMS_CLN Energy_52 V_ 51.2V45Ah_2023_EV_AT
+:::::::::::::: Eastman / E_ChargeUp , BMS_Eastman_EM LFP S 51105 N_Webber 500 CAN_2024_EV_AT
+:::::::::::::: blrtrafficpolice , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: JPM , BMS_JPM_60V_Default_2022_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Honda_Activa 5G_Default_2018_P_AT
+:::::::::::::: Madikeri_Police , Car_Mahindra_Scorpio S5_Default_2017_D_MT
+:::::::::::::: Highflow_Industries , BMS_Highflow_50V_Default_2022_EV_AT
+:::::::::::::: ICProduction / Livguard / BS_Devices_Simsterminated , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: MUPL , eBike_Okinawa_IPraise+_EV_2021_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Yamaha_Aerox 155_Default_2023_P_AT
+:::::::::::::: Livguard_Ver2 / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: MUPL , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Suzuki_VStrom_SF250_2021_P_MT
+:::::::::::::: Sanvaru , BMS_Sanvaru_Battery_Default_2022_EV_AT
+:::::::::::::: Flexifleet , eBike_Odysse Electric_Odysse _Default_2024_EV_MT
+:::::::::::::: Perpetuity_Capital , Car_Tata_Winger_Default_2018_D_MT
+:::::::::::::: Mooving_Mobility / ICProduction / Livguard , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: stefen_electric / Upgrid_Mobility , BMS_Stefen_48V-Superpower_Default_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Dio_Default_2021_P_AT
+:::::::::::::: stefen_electric / Inverted_energy / Upgrid_Mobility , BMS_Stefen_48V-Superpower_Default_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Polo_Default_2019_D_MT
+:::::::::::::: MUPL , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Meteor 350 steller_Default_2020_P_MT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Bharat_2023_EV_AT
+:::::::::::::: DeviceManagement / MBSI_PVT_LTD , ____0__
+:::::::::::::: DMT / PointO / Inverted_energy , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: LA5.IC.OPS / alt_mobility , eBike_BGauss_C12_Default_2022_EV_AT
+:::::::::::::: PoliceInspectors_law_order , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Activa 5G_Default_2020_P_MT
+:::::::::::::: Livguard_Ver2 / Livguard , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: InvertxGreentech , BMS_Invertx_Greentech_51.2V105AH_JBD 500_2024_EV_AT
+:::::::::::::: sid2007jaingmail.com / ICProduction / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Greenfuel , BMS_Greenfuel_72V_GF5_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_KTM_Adventure 250_Default_2020_P_MT
+:::::::::::::: Moove , Car_Maruti_Wagonr_VXI_2019_P_AMT
+:::::::::::::: Ipower , ____0__
+:::::::::::::: IndusGo_SecondaryDevice , Car_Maruti_Swift_Default_2019_D_MT
+:::::::::::::: ScooEV_Sigrid , eBike_HEROelectric_NYX e5_Default_2018_EV_AT
+:::::::::::::: blrtrafficpolice , Bike_TVS_Apache_RTR160_2023_P_AT
+:::::::::::::: DeviceManagement / DMT , ____0__
+:::::::::::::: Biliti_Electric / Abroad_Clients , BMS_Biliti_52V_Default_2022_EV_AT
+:::::::::::::: CLN_Energy , BMS_CLN Energy_25.6V _25.6V 200Ah_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Honda CB 350_Default_2021_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Toyota_Innova crysta_Default_2019_D_MT
+:::::::::::::: Magenta / Perpetuity_Capital / MTA_emobility , eRickshaw_Euler_HiLoad_AT_2021_EV_AT
+:::::::::::::: PointO / Inverted_energy , BMS_Inverted_51.6V_Inverted_Daly_2023_EV_AT
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Inverted_51.2V 48 Ah_Daly_500_2024_EV_AT
+:::::::::::::: One_electric , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: IndusGo_Bikes , Bike_Honda_Activa 6G_Default_2024_P_AT
+:::::::::::::: Mooving_Mobility / Livguard / IntelliOne / Upgrid_Mobility , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Noori_Travels , Car_Maruti_Ciaz_Zxi_2018_P_AMT
+:::::::::::::: ZyppElectric , eBike_Kinetic Green_2W_Default_2022_EV_AT
+:::::::::::::: vidyuttech_API , eRickshaw_Mahindra_Zor Grand_DV+_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Wagonr_Default_2023_CNG_MT
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_ BSR48-03820CEB_Eicher_2023_EV_AT
+:::::::::::::: Epitome_energy , BMS_Epitome energy_48V_Default_2023_EV_AT
+:::::::::::::: Wheelocity , eRickshaw_Reep_Keto_Default_2022_EV_AT
+:::::::::::::: ScooEV_Sigrid , eBike_BGauss_D15i_Default_2022_EV_AT
+:::::::::::::: OkPlay , eRickshaw_OK PLAY_L5 eVehicle_LDR_2020_EV_CVT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_Eltra_PV_SEG+Exicom_2024_EV_AT
+:::::::::::::: Trontek , BMS_Trontek_64V_32Ah 20S_2023_EV_AT
+:::::::::::::: Dally_Demo / stefen_electric / Upgrid_Mobility , BMS_Stefen_48V_Default_2022_EV_AT
+:::::::::::::: KROPEX , Car_Tata_Xpress -T_Electra_2022_EV_AT
+:::::::::::::: Ipower / Upgrid_Mobility , BMS_iPower_iPower_Daly 250_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Tata_Altroz_Default_2021_D_MT
+:::::::::::::: FAE_Bikes / MBSI_PVT_LTD , eBike_test_test_Default_2020_EV_AT
+:::::::::::::: BikeBazaar , eBike_Quantum_Bziness_EV_2024_EV_AT
+:::::::::::::: Noori_Travels , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Brezza_Default_2019_D_MT
+:::::::::::::: Lohum , ____0__
+:::::::::::::: Napino / Livguard / IntelliOne , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: Likraft , BMS_Likraft_60V 36Ah LFP_JBD250_2024_EV_AT
+:::::::::::::: Dally_Demo / stefen_electric / Upgrid_Mobility , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Guerrilla 450_Default_2024_P_MT
+:::::::::::::: SNM_Cabs , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Greenfuel , BMS_Greenfuel_JBD_Default_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Car_Hyundai_Aura_Default_2020_P_MT
+:::::::::::::: YukiElectrical , BMS_YukiElectrical_51.2V100AH_JBD500_2024_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_ePRO_City_Tork+Amaron_2022_EV_AT
+:::::::::::::: Madikeri_Police , Car_Toyota_Innova Crysta_GX 7 STR_2021_D_MT
+:::::::::::::: examinationvehicles_BCP , Truck_Eicher_Pro 2110_Pro_2023_D_MT
+:::::::::::::: Ipower , BMS_iPower_48V 45AH_BS V2_2024_EV_AT
+:::::::::::::: Turno , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2023_EV_AT
+:::::::::::::: Ipower , BMS_iPower_60V 100Ah_JBD 500_2024_EV_AT
+:::::::::::::: Eastman / MUPL , BMS_Eastman_ EM LFP S 51105 G_JBD CAN 250_2024_EV_AT
+:::::::::::::: Sparrow_Mobility , Car_Maruti_Wagonr_Default_2022_CNG_MT
+:::::::::::::: RoyalBrothers , Bike_Honda_Activa_Default_2023_P_AT
+:::::::::::::: SUN_MOBILITY , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_VSR48-060 20CEB_No Genset_2024_EV_AT
+:::::::::::::: Akira , BMS_Akira_JBD 500K_Default_2024_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Hyundai_VENUE _Default_2021_P_MT
+:::::::::::::: PointO , BMS_CLN Energy_52 V_51.2V 100Ah_2023_EV_AT
+:::::::::::::: Pibeam , eBike_HEROelectric_NYX e5_Default_2018_EV_AT
+:::::::::::::: Zelfinance / Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: Greendrive , eBike_Okinawa_IPraise+_EV_2021_EV_AT
+:::::::::::::: EVMGroup , Bike_Honda_Activa_6G_2020_P_MT
+:::::::::::::: EVMGroup , Bike_KTM_Duke 250_Default_2022_P_MT
+:::::::::::::: Gensol , eRickshaw_Euler_HiLoad_AT_2021_EV_AT
+:::::::::::::: Tata_Demo / PASFREIGHT , Truck_Eicher_Pro 2110_Pro_2023_D_MT
+:::::::::::::: TVS_Motors , Tata ace_Tata_Tata Ace_Default_2018_EV_AT
+:::::::::::::: Amplus , eRickshaw_Altigreen_NEEV HD_EV_2021_EV_AT
+:::::::::::::: Greenfuel / Upgrid_Mobility , BMS_Greenfuel_48V_V3_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Vento_Default_2020_P_MT
+:::::::::::::: vidyuttech_API / Greaves_3W_MLR_Auto / MahindraDemo , eRickshaw_MLR Auto_Eltra_City_SEG+Exicom_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_MG_Hector_ZX_2021_EV_AT
+:::::::::::::: eTrio / Turno , eRickshaw_Etrio_TOURO MAX_Default_2020_EV_AT
+:::::::::::::: Perpetuity_Capital , Car_Honda_City_Default_2019_P_AT
+:::::::::::::: Battrixx , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: PointO / Inverted_energy , BMS_Inverted_51.6V_Inverted_JBD_500BD_2024_EV_AT
+:::::::::::::: sid2007jaingmail.com / ICProduction / Livguard / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: MBSI_PVT_LTD , Bike_TVS_JUPITER_Default_2020_P_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Mavrick 440_Default_2024_P_MT
+:::::::::::::: Trontek / Upgrid_Mobility , BMS_Trontek_51V_Battery Smart 500K Protocol_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_CliQ_Default_2019_P_CVT
+:::::::::::::: MBSI_PVT_LTD / demo.hero , Bike_Hero_Maestro Edge_Default_2018_P_MT
+:::::::::::::: Livguard / IntelliOne , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Isuzu_MUX_Default_2019_D_AT
+:::::::::::::: blrtrafficpolice / PoliceInspectors_law_order , Car_Maruti_Ertiga_Default_2023_CNG_MT
+:::::::::::::: DriveO , Car_Tata_Xpres-T_Ziptron_2024_EV_AT
+:::::::::::::: blrtrafficpolice , Bike_Hero_Glamour_Default_2018_P_MT
+:::::::::::::: Monter , Car_Maruti_Spresso_Default_2021_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Vento_Default_2018_D_AT
+:::::::::::::: Greendrive , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD200A_Kohinoor_2024_EV_AT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_VSX48-032 20CEB_Fieldmarshal_2023_EV_AT
+:::::::::::::: IndusGo_SecondaryDevice , Car_Maruti_Swift_Zxi +_2018_P_MT
+:::::::::::::: Bhagiyalakshmi , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Smrtiacademy , Truck_Eicher_Pro 2110_Pro_2023_D_MT
+:::::::::::::: ElectrifiMobility , Tata ace_Tata_Tata Ace_EV_2023_EV_AT
+:::::::::::::: Livguard / BS_Devices_Simsterminated , BMS_Livguard_48V_V4_2023_EV_AT
+:::::::::::::: HWY Rider , Bike_Royal Enfield_Hunter _350_2022_P_MT
+:::::::::::::: IndusGo , Car_Maruti_Swift_Default_2019_P_MT
+:::::::::::::: Adani_Wilmar , Car_Toyota_Innova Crysta_Default_2018_D_MT
+:::::::::::::: Maverick_Motors , Bike_Royal Enfield_Super Meteor 650_Default_2024_P_MT
+:::::::::::::: HWY Rider , Bike_Royal Enfield_Classic 350_Default_2023_P_MT
+:::::::::::::: Tata_Demo , Truck_Volvo_Volvo FM_Default_2020_D_MT
+:::::::::::::: Ipower , BMS_iPower_60V 30Ah_Daly 250Kbps_2024_EV_AT
+:::::::::::::: IndusGo_Bikes / demo.hero , Bike_Honda_Activa_6G_2020_P_MT
+:::::::::::::: Dally_Demo / Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Hyundai_Creta_Default_2021_D_AT
+:::::::::::::: Trontek , BMS_Trontek_51V105Ah_Trontek_REV 1.3_2024_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Honda_activa 125_Default_2022_P_AT
+:::::::::::::: Trontek / Upgrid_Mobility , BMS_Trontek_51V_Default_2022_EV_AT
+:::::::::::::: Ipower , BMS_iPower_iPower_Daly 500_2023_EV_AT
+:::::::::::::: KROPEX , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSR48-038 20CEB_Default_2022_EV_AT
+:::::::::::::: HWY Rider , Bike_TVS_JUPITER_Default_2020_P_AT
+:::::::::::::: IntelliOne / Upgrid_Mobility , BMS_Livguard_BMS_WK_16S_LFP_48V_60A_V4_2023_EV_AT
+:::::::::::::: BikeBazaar , eBike_Bounce_Infinity_Default_2024_EV_AT
+:::::::::::::: BikeBazaar , eBike_BGauss_C12_Default_2022_EV_AT
+:::::::::::::: Zen_Mobility / ETM_ZenMobility , E-Cargo_Zen_ZEN MICROPOD_Default_2024_EV_AT
+:::::::::::::: Trontek , BMS_Trontek_51.2V_REV1.3_2024_EV_AT
+:::::::::::::: EEE_TAXI , Car_Tata_Tigor_Default_2020_EV_AMT
+:::::::::::::: Tata_Demo , Truck_Tata_LPT 4223_CRE BSIV_2018_D_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Bajaj_Avenger Cruise 220_Default_2023_P_MT
+:::::::::::::: TenV / TenV_La5 , Vehicle_Vehicle_Vehicle_Default_2017_D_MT
+:::::::::::::: Vgoocars , Car_Ford_Figo_Default_2017_D_MT
+:::::::::::::: ZyppElectric , eBike_HEROelectric_NYX e5_Default_2018_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD200A_Eicher_2023_EV_AT
+:::::::::::::: AnandM , ____0__
+:::::::::::::: alt_mobility / Quantum , eBike_Quantum_Bziness_500_Bziness XP_2024_EV_AT
+:::::::::::::: Madikeri_Police , Car_Mahindra_Scorpio_Default_2020_P_MT
+:::::::::::::: Shaffaf_QAT / Abroad_Clients , ____0__
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_No Genset_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Car_Maruti_Wagonr_Default_2023_CNG_MT
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSX48-032 20CEB_No Genset_2023_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS / VVIP_Police , Car_Maruti_Ertiga_ZXI_2020_D_MT
+:::::::::::::: EVMGroup , Bike_Bajaj_Avenger Cruise 220_Default_2024_P_MT
+:::::::::::::: Trontek , BMS_Trontek_64V_Default_2022_EV_AT
+:::::::::::::: Amplus / Abroad_Clients , Mini Bus_Higer_H5C_Default_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , eBike_BGauss_D15i_Default_2022_EV_AT
+:::::::::::::: lithium , Car_Tata_Xpress -T_Default_2021_EV_AT
+:::::::::::::: MUPL / Gensol , Auto_Ape_Piaggio_Default_2020_D_MT
+:::::::::::::: Perpetuity_Capital , Bus_Tata_Bus_Default_2017_D_MT
+:::::::::::::: Perpetuity_Capital , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2023_EV_AT
+:::::::::::::: DeviceManagement , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: KTPL , Truck_Mahindra_MN 25_Default_2013_D_MT
+:::::::::::::: NRI_Researchfox , Auto_Bajaj_RE_Default_2021_P_MT
+:::::::::::::: TenV / TenV_La5 , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: DeviceManagement , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: AshokLeyland , Truck_Ashok Leyland_Truck_Default_2017_D_MT
+:::::::::::::: EVMGroup , Bike_Honda_Unicorn 150_Default_2018_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Pleasure_Default_2019_P_AT
+:::::::::::::: VVIP_Police , Car_Maruti_ECCO_Default_2019_CNG_MT
+:::::::::::::: ICProduction / Livguard / Upgrid_Mobility , BMS_Livguard_48V_V4_2023_EV_AT
+:::::::::::::: Texorenergy , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: Lectrix , eBike_Lectrix_LXS_EV_2024_EV_AT
+:::::::::::::: Aventose , eBike_Aventose_S110_Default_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_Ray Z_Default_2023_P_AT
+:::::::::::::: Eastman , BMS_Eastman_51.2V-100AH._JBD 500 CAN_2024_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Aprilia_SR 150_Default_2017_P_AT
+:::::::::::::: Smrtiacademy , Bus_Eicher_Bus_Default_2017_D_MT
+:::::::::::::: LA5.IC.OPS , eBike_Simple Energy_Simple One_Default_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Hero_PLEASURE+_Default_2020_P_AT
+:::::::::::::: Noori_Travels , Car_Nissan_Sunny_Default_2017_P_MT
+:::::::::::::: blrtrafficpolice , Car_Maruti_Eeco_Default_2017_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Bajaj_Pulsar 150_Default_2017_P_MT
+:::::::::::::: Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: Greendrive / Loadshare , eBike_HEROelectric_NYX e5_HX_2022_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS , Car_Maruti_Ertiga_Default_2020_D_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Activa_5G_2021_P_AT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Bear 650_Default_2024_P_MT
+:::::::::::::: KHT_agencies , Minitruck_Tata_INTRA V30 BS6_BS6_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Polo_Default_2021_P_AT
+:::::::::::::: EVM_secondarydevice , Car_Skoda_slavia_Default_2022_P_AT
+:::::::::::::: Livguard_Ver2 / Livguard / BS_Devices_Simsterminated , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Scram 411_Default_2024_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Scram 411_Default_2024_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Nexa XL6_Delta_2019_D_AT
+:::::::::::::: Greenfuel , BMS_Greenfuel_GF7_Electrifuel_ver_H_2024_EV_AT
+:::::::::::::: Livguard , ____0__
+:::::::::::::: Amararaja , BMS_Amararaja_BS-500_52V_2024_EV_AT
+:::::::::::::: Magenta , eRickshaw_Mahindra_Treo_Zor_2021_EV_AT
+:::::::::::::: EVMGroup , Bike_Honda_Dio_Default_2021_P_AT
+:::::::::::::: tork , eBike_TORK_Kratos R_Default_2021_EV_AT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_VSR48-024 20CEB_Default_2022_EV_AT
+:::::::::::::: Livguard / IntelliOne , ____0__
+:::::::::::::: EVM_secondarydevice , Car_Skoda_KUSHAQ_Default_2021_P_AT
+:::::::::::::: Eastman , BMS_Eastman_EM LFP S 51105 N_Webber 500 CAN_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Suzuki_Gixxer 150_Default_2021_P_MT
+:::::::::::::: ZyppElectric / Greaves_2W_Ampere , eBike_Ampere_Magnus_MC 100_2024_EV_AT
+:::::::::::::: kazam , eRickshaw_Mahindra_Zor Grand_DV+_2022_EV_AT
+:::::::::::::: Mooving / Livguard / BS_Devices_Simsterminated / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Dzire_Default_2023_D_MT
+:::::::::::::: stefen_electric / Upgrid_Mobility , ____0__
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSR48-038 20CEB_Mahindra_2023_EV_AT
+:::::::::::::: Krishniah Chetty and Sons , Car_BMW_5 series_Default_2017_D_MT
+:::::::::::::: SygnusElectrik , ____0__
+:::::::::::::: tork , eBike_TORK_Kratos_Default_2021_EV_AT
+:::::::::::::: Turno , eRickshaw_Etrio_TOURO MAX_Default_2020_EV_AT
+:::::::::::::: Turno , eRickshaw_Mahindra_Zor Grand_DV+_2022_EV_AT
+:::::::::::::: Noori_Travels , Car_Toyota_Etios_Default_2019_D_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Hornet -2.0_Default_2024_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Skoda_slavia_Default_2022_D_MT
+:::::::::::::: vidyuttech_API / Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_Eltra_Cargo_Tork+Amaron_2023_EV_AT
+:::::::::::::: BikeBazaar / Quantum / EOLTest_Pass_2024 , eBike_Quantum_Jinka_250_Bziness Pro_2024_EV_AT
+:::::::::::::: HWY Rider , Bike_Hero_Maestro Edge_Default_2018_P_MT
+:::::::::::::: Yukinova , BMS_Yukinova_60V_Default_2023_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Honda_Dio_Default_2023_P_AT
+:::::::::::::: Lets_Transport , eRickshaw_Etrio_TOURO MAX_Default_2020_EV_AT
+:::::::::::::: PointO / Neuron , BMS_Neuron_51.2V 30Ah_LPF_2024_EV_AT
+:::::::::::::: stefen_electric / Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: Blusmart / demo.hero , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: AshokLeyland / Tata_Demo , Truck_Ashok Leyland_4220_Default_2023_D_MT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Suzuki_VStrom_SX 250_2022_P_MT
+:::::::::::::: Maverick_Motors , Bike_Royal Enfield_Meteor 350 steller_Default_2023_P_MT
+:::::::::::::: Adani_Wilmar , Car_Toyota_Innova Hycross_Default_2022_D_AT
+:::::::::::::: CLN_Energy , BMS_CLN Energy_52 V_51.2V 105 Ah_2024_EV_AT
+:::::::::::::: Zen_Mobility / ETM_ZenMobility / DriveO , E-Cargo_Zen_ZEN MICROPOD_Default_2024_EV_AT
+:::::::::::::: ScooEV_Sigrid , eBike_Lectrix_LX25D_Default_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Yamaha_Ray Z_Default_2023_P_AT
+:::::::::::::: Highflow_Industries , ____0__
+:::::::::::::: Tata_Demo / PASFREIGHT , Truck_Ashok Leyland_Dost_Default_2023_D_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_KTM_Duke 390_Default_2017_P_MT
+:::::::::::::: LA5.IC.OPS , BMS_Lithion_Battery_48V_2022_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Hero_PLEASURE+_Default_2020_P_AT
+:::::::::::::: Zelfinance / Inverted_energy , BMS_Inverted_48V_Default_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Bajaj_Avenger Street 220_Default_2017_P_MT
+:::::::::::::: ORIX.IC , Car_Maruti_Baleno_Default_2017_D_MT
+:::::::::::::: alt_mobility , eBike_BGauss_C12_Default_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_KTM_Duke 200_Default_2017_P_MT
+:::::::::::::: IndusGo , Car_Maruti_Wagonr_VXI_2019_P_AMT
+:::::::::::::: Abroad_Clients , ____0__
+:::::::::::::: RoyalBrothers / demo.hero , Bike_Honda_Activa_5G_2021_P_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Royal Enfield_Classic 350_Default_2017_P_MT
+:::::::::::::: Greenfuel , BMS_Greenfuel_51.2V_GF6_J500_2024_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Honda_Hiness_Default_2020_P_MT
+:::::::::::::: Log9 , BMS_Log9_Static_Default_2022_EV_AT
+:::::::::::::: Jupiter_Electric_Mobility , E-Cargo_Jupiter Electric  Mobility_TEZ_ESCV_2024_EV_AT
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: Quantum , eBike_Quantum_Bziness_EV_2023_EV_AT
+:::::::::::::: BS_Devices_Simsterminated / Inverted_energy , BMS_Inverted_48V_V1_2022__AT
+:::::::::::::: RoyalBrothers , Bike_Triumph_Speed 400_Default_2022_P_MT
+:::::::::::::: Livguard / IntelliOne / Upgrid_Mobility , BMS_Livguard_48V_V4_2023_EV_AT
+:::::::::::::: aktest / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Jaidka , eRickshaw_Jaidka_Arjun_Default_2022_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto / IntelliOne , eRickshaw_MLR Auto_Eltra_Cargo_SEG+Exicom_2023_EV_AT
+:::::::::::::: IntelliOne , eRickshaw_MLR Auto_Eltra_DV_SEG+Exicom_2023_EV_AT
+:::::::::::::: Mooving / Napino / Mooving_Mobility / Livguard , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_MT 15_Default_2023_P_AT
+:::::::::::::: Gensol / Blusmart , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: sid2007jaingmail.com / ICProduction / Livguard / IntelliOne / Upgrid_Mobility , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: ElectrifiMobility , ____0__
+:::::::::::::: HWY Rider , Bike_TVS_Ronin_Default_2022_P_MT
+:::::::::::::: stefen_electric , BMS_Stefen_48V-Superpower_Default_2023_EV_AT
+:::::::::::::: GoEv , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2023_EV_AT
+:::::::::::::: Greenfuel , BMS_Greenfuel_48V_V1_2019__AT
+:::::::::::::: Eastman / E_ChargeUp , BMS_Eastman_ EM LFP S 51105 G_Webber 500 CAN_2024_EV_AT
+:::::::::::::: HWY Rider , Bike_TVS_JUPITER_Default_2020_P_CVT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Classic 350_Default_2023_P_MT
+:::::::::::::: KROPEX / Blusmart , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: city_Armed_Reserve , Car_Maruti_Eeco_Default_2017_P_MT
+:::::::::::::: Inverted_energy , BMS_Inverted_48V_Default_2022_EV_AT
+:::::::::::::: Noori_Travels , Car_Toyota_Innova crysta_Default_2024_P_MT
+:::::::::::::: IndusGo , Car_Maruti_Swift_Zxi +_2018_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Suzuki_Avenis_Default_2022_P_AT
+:::::::::::::: Turno_API / Turno , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: Ipower / Upgrid_Mobility , BMS_iPower_51.2V  100Ah_JBD 500_2024_EV_AT
+:::::::::::::: Madikeri_Police , Bus_Swaraj Mazda_Swaraj Mazda_Default_2017_D_MT
+:::::::::::::: ScooEV_Sigrid , eBike_Quantum_Bziness_EV_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Continental GT 650_Default_2024_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Himalayan_Default_2017_P_MT
+:::::::::::::: Livguard / Greenfuel / Upgrid_Mobility , BMS_Greenfuel_48V_V3_2022_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Celerio_Default_2019_P_AT
+:::::::::::::: MBSI_PVT_LTD , ____0__
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Inverted_51.6V_Inverted_JBD_2023_EV_AT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_Eicher_Default_2023_EV_AT
+:::::::::::::: Denso , eRickshaw_Tork_Passenger_Default_2020_EV_MT
+:::::::::::::: Mooving_Mobility / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Livguard_Ver2 / Livguard , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: BLR_POLICE_HOYSALAS / VVIP_Police , Car_Maruti_Ertiga_VDi_2019_D_MT
+:::::::::::::: JPM , ____0__
+:::::::::::::: RoyalBrothers , Bike_Aprilia_RS457_Default_2023_P_MT
+:::::::::::::: alt_mobility , ____0__
+:::::::::::::: Noori_Travels , Car_Toyota_Camry_Default_2017_P_MT
+:::::::::::::: MBSI_PVT_LTD , eBike_BGauss_C12_i Max_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Bajaj_Pulsar 250N_Default_2023_P_MT
+:::::::::::::: MoveInSync , Car_Maruti_Swift_Default_2022_P_MT
+:::::::::::::: Inverted_energy / Upgrid_Mobility , ____0__
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSR48-024 20CEB_Eicher_2023_EV_AT
+:::::::::::::: MUPL , Tata ace_Tata_Tata Ace_EV_2023_EV_AT
+:::::::::::::: Trontek / Upgrid_Mobility , BMS_Trontek_51V105Ah_Trontek BMS - REV1.1 - 500K_2024_EV_AT
+:::::::::::::: MUPL , eRickshaw_Altigreen_NEEV API_Default_2023_EV_AT
+:::::::::::::: Refex_Green_Mobility / EOLTest_Pass_2024 , Car_Mahindra_Xuv400_Default_2024_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Honda_Activa 5G_Default_2020_P_AT
+:::::::::::::: Greendrive / Quantum , eBike_Quantum_Bziness_500_Bziness XS_2024_EV_AT
+:::::::::::::: Greentiger / Upgrid_Mobility , BMS_Greentiger_52V_Default_2023_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS / blrtrafficpolice , Car_Maruti_Ertiga_ZXI_2020_D_MT
+:::::::::::::: DriveO , Tata ace_Tata_Tata Ace_EV_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Yamaha_Ray ZR 125_Default_2023_P_AT
+:::::::::::::: Noori_Travels , Car_Toyota_Etios_Default_2017_D_MT
+:::::::::::::: ICProduction / Livguard / Upgrid_Mobility , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: MBSI_PVT_LTD , eBike_Okinawa_IPraise+_EV_2021_EV_AT
+:::::::::::::: DeviceManagement / ZyppElectric , ____0__
+:::::::::::::: Akira / Upgrid_Mobility , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Bajaj_Avenger Cruise 220_Default_2023_P_MT
+:::::::::::::: FAE_Bikes , eBike_HEROelectric_NYX e5_Default_2018_EV_AT
+:::::::::::::: Livguard / IntelliOne / Upgrid_Mobility , BMS_Livguard_BMS White Knight 14S_48V_60A_V4_2023_EV_No Data
+:::::::::::::: EVMGroup , Bike_Honda_CB Hornet 160R_Default_2017_P_MT
+:::::::::::::: Ipower / Upgrid_Mobility , BMS_iPower_48V 45AH_BS V2_2024_EV_AT
+:::::::::::::: Amplus , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Brezza_ZXI_2021_P_AT
+:::::::::::::: IndusGo_SecondaryDevice , Car_Maruti_Celerio_Default_2019_P_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Suzuki_Access_Default_2023_P_AT
+:::::::::::::: Stride / Zen_Mobility , E-Cargo_Zen_ZEN MICROPOD_Default_2024_EV_AT
+:::::::::::::: ACP_law_and_order , Car_Mahindra_Bolero_Default_2019_D_MT
+:::::::::::::: Ecomile_tech , BMS_Ecomile_48V/33.8Ah NMC_Default_2023_EV_AT
+:::::::::::::: voltguard_power , BMS_voltguar_51.2V 105AH_JBD500_2024_EV_AT
+:::::::::::::: TopGear_Autolinks , _yamaha_fz__0_P_MT
+:::::::::::::: exponent , eRickshaw_Altigreen_NEEV HD_EV_2021_EV_AT
+:::::::::::::: Lohum , BMS_Lohum_50V_Default_2022_EV_AT
+:::::::::::::: ElectrifiMobility , eBike_Lectrix_LXS_EV_2024_EV_AT
+:::::::::::::: LA5.IC.OPS / stefen_electric , ____0__
+:::::::::::::: MBSI_PVT_LTD , Car_Maruti_Wagonr_Default_2022_CNG_MT
+:::::::::::::: MUPL / ICProduction , eRickshaw_Euler_HiLoad_AT_2021_EV_AT
+:::::::::::::: KHT_agencies / Blusmart / demo.hero , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Honda_CB 200X_Default_2023_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_KTM_Duke 250_Default_2022_P_MT
+:::::::::::::: BUZZ_ENERGY , ____0__
+:::::::::::::: EmoEnergy , eBike_kineticgreen_E luna_Default_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_TVS_Apache_RTR160_2023_P_AT
+:::::::::::::: Zen_Mobility / DriveO , E-Cargo_Zen_ZEN MICROPOD_Default_2024_EV_AT
+:::::::::::::: BS_Devices_Simsterminated / Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: Greenfuel , BMS_Greenfuel_GF9_SEPLOS500_2024_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Skoda_Rapid_Default_2021_P_MT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_ePRO_Cargo_Tork+Amaron_2022_EV_AT
+:::::::::::::: Noori_Travels , Car_Toyota_Fortuner_Default_2018_D_AT
+:::::::::::::: ELECTRIQMOBILITYMOTORS , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Vento_Default_2020_P_AT
+:::::::::::::: Greenfuel , BMS_Greenfuel_48V_Electrifuel_V1_2023_EV_AT
+:::::::::::::: Madikeri_Police , Car_Tata_Sumo_Default_2016_D_MT
+:::::::::::::: InGo_Electric , ____0__
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Activa_Default_2023_P_AT
+:::::::::::::: blrtrafficpolice , Bike_Bajaj_Pulsar 150_Default_2017_P_MT
+:::::::::::::: ICProduction / Livguard , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: Propel , Truck_Propel_E-Truck_Default_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Redi Go_Default_2020_P_AT
+:::::::::::::: SygnusElectrik , BMS_Sygnus Electrik_Webber 500K_51.2V/100Ah Li-ion_2024_EV_AT
+:::::::::::::: CLN_Energy , BMS_CLN Energy_52 V_51.2V 100Ah_2023_EV_AT
+:::::::::::::: Livguard / BS_Devices_Simsterminated / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Greendrive / alt_mobility / Quantum , eBike_Quantum_Bziness_Daly 500 BMS_2023_EV_AT
+:::::::::::::: Refex_Green_Mobility , Car_Tata_Tigor_Xpress T Ziptron_2023_EV_AT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Suraj_2023_EV_AT
+:::::::::::::: Biliti_Electric / Abroad_Clients , Inverter_Biliti Electric_Growatt_TTL_2024_EV_AT
+:::::::::::::: Stride , eRickshaw_Euler_HiLoad_AT_2024_EV_AT
+:::::::::::::: Eastman / E_ChargeUp , BMS_Eastman_EM LFP S 51105 N_JBD CAN 250_2024_EV_AT
+:::::::::::::: Trontek , BMS_Trontek_61V105Ah_trontek BMS - Rev1.1 500K_2024_EV_AT
+:::::::::::::: matter_energies , ____0__
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Go_Default_2021_P_AT
+:::::::::::::: PoliceInspectors_law_order , Car_Maruti_Ertiga_Default_2023_CNG_MT
+:::::::::::::: One_World_Mobility , eBike_BGauss_C12_Default_2022_EV_AT
+:::::::::::::: stefen_electric , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: city_Armed_Reserve , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Citroen_Citroen_Default_2022_EV_AT
+:::::::::::::: Livguard_Ver2 / Livguard / BS_Devices_Simsterminated / Upgrid_Mobility , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: IndusGo_Bikes / demo.hero , Bike_Royal Enfield_Bullet 350_Default_2017_P_MT
+:::::::::::::: Suprajit , Bike_TVS_NTORQ_Default_2019_P_AT
+:::::::::::::: NTL_India , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Polo_Default_2020_P_MT
+:::::::::::::: MUPL / Stride , eRickshaw_ADM_Electroride_Default_2024_EV_AT
+:::::::::::::: Amplus / Letrix_2W , eBike_Lectrix_LX25D_Default_2021_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Mahindra_Thar_Default_2022_D_AT
+:::::::::::::: Gemopai , eBike_Gemopai_Ryder_Low Speed _2024_EV_AT
+:::::::::::::: Moove , ____0__
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Suzuki_Gixxer 250_Default_2021_P_MT
+:::::::::::::: Greenfuel , BMS_Greenfuel_51.2V_Dally_2023_EV_AT
+:::::::::::::: BikeBazaar , eBike_Quantum_Bziness_Local-NMC500_2024_EV_AT
+:::::::::::::: DriveO , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Kia_Sonet_Default_2024_P_AT
+:::::::::::::: lio , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Swift_Zxi +_2018_P_MT
+:::::::::::::: RoyalBrothers , Bike_BMW_G310R_Default_2018_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Polo_GT TSI_2020_P_AT
+:::::::::::::: BLR_POLICE_HOYSALAS / city_Armed_Reserve , Car_Mahindra_Bolero_Default_2019_D_MT
+:::::::::::::: HWY Rider , Bike_Royal Enfield_Himalayan_Default_2023_P_MT
+:::::::::::::: tork / LA5.IC.OPS , ____0__
+:::::::::::::: Blusmart , Car_Tata_Xpress -T_Electra_2022_EV_AT
+:::::::::::::: Eastman , BMS_Eastman_ EM LFP S 51105 G_JBD CAN 250_2024_EV_AT
+:::::::::::::: Stride / Zen_Mobility / ETM_ZenMobility , E-Cargo_Zen_ZEN MICROPOD_Default_2024_EV_AT
+:::::::::::::: LA5.IC.OPS , BMS_Livguard_48V_Default_2020_EV_AT
+:::::::::::::: Livguard / IntelliOne , BMS_Livguard_48V_V2_2022_EV_AT
+:::::::::::::: Amplus / Abroad_Clients , ____0__
+:::::::::::::: EVMGroup , Bike_Royal Enfield_Himalayan_Default_2017_P_MT
+:::::::::::::: shortterm_storage / IntelliOne , ____0__
+:::::::::::::: Livguard_Ver2 / BS_Devices_Simsterminated / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Royal Enfield_Meteor 350 steller_Default_2023_P_MT
+:::::::::::::: Qargos , eBike_Qargos_F9_72V 75AH_2024_EV_AT
+:::::::::::::: Ambarmitra , Car_Tata_Winger_Default_2018_P_MT
+:::::::::::::: HWY Rider , Bike_Triumph_Speed 400_Default_2022_P_MT
+:::::::::::::: MoveInSync , Car_Tata_Xpress -T_Ziptron_2024_P_MT
+:::::::::::::: Upgrid_Mobility , eRickshaw_Mahindra_Alfa_Default_2024_EV_AT
+:::::::::::::: Livguard / Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: Log9 , ____0__
+:::::::::::::: Motovolt , eBike_Motovolt_Motovolt M7_Default_2024_EV_AT
+:::::::::::::: Mooving_Mobility / Livguard / BS_Devices_Simsterminated , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: PointO , BMS_Neuron_51.2V _51.2V 105Ah_2024_EV_AT
+:::::::::::::: vidyuttech_API , eRickshaw_TATA_ACE_EV_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Aprilia_SR 150_Default_2017_P_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Bajaj_Avenger Cruise 220_Default_2024_P_MT
+:::::::::::::: Greenfuel , BMS_Greenfuel_51.2V_GF3_2024_EV_AT
+:::::::::::::: Maverick_Motors , Bike_Royal Enfield_Bullet 350_Default_2017_P_MT
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_Inverted_JBD_2023_EV_AT
+:::::::::::::: Tata_Demo / PASFREIGHT , Minitruck_Ashok Leyland _Dost_Default_2024_P_MT
+:::::::::::::: Epitome_energy / Upgrid_Mobility , BMS_Epitome energy_51.2V45AH_Superpower_2024_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Polo_Default_2021_P_MT
+:::::::::::::: Perpetuity_Capital , Car_Hyundai_Eon_Default_2018_P_MT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_ePRO_DV_Tork+Amaron_2023_EV_AT
+:::::::::::::: Maverick_Motors , Bike_Royal Enfield_Himalayan Scram 411_Default_2024_P_MT
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSR48-024 20CEB_Field Marshal_2023_EV_AT
+:::::::::::::: Livguard_Ver2 / Livguard / BS_Devices_Simsterminated , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: HWY Rider , Bike_Bajaj_Pulsar NS 160_Default_2018_P_MT
+:::::::::::::: Greendrive , eBike_HEROelectric_NYX e5_HX_2022_EV_AT
+:::::::::::::: Jeevambika , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: Greenfuel , BMS_Greenfuel_GF2_51.2V_2023_EV_AT
+:::::::::::::: Trontek , BMS_Trontek_51V_Battery Smart 500K Protocol_2024_EV_AT
+:::::::::::::: eTrio , Etrio_Etrio_TOURO MAX_Default_2020_EV_AT
+:::::::::::::: Greenifit , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: Stride , Tata ace_Tata_Tata Ace_EV_2023_EV_AT
+:::::::::::::: Greendrive / Turno , eRickshaw_Mahindra_Zor Grand_DV+_2022_EV_AT
+:::::::::::::: Bullwork_Mobility , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Suzuki_Gixxer 150_Default_2023_P_AT
+:::::::::::::: DMT / EOLTest_Pass_2024 , ____0__
+:::::::::::::: IndusGo , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: IndusGo_SecondaryDevice , Car_Maruti_Brezza_Default_2020_P_MT
+:::::::::::::: HWY Rider , Bike_Royal Enfield_Interceptor 650_Default_2018_P_MT
+:::::::::::::: RoyalBrothers , Bike_Yamaha_MT 15_Default_2023_P_AT
+:::::::::::::: Perpetuity_Capital , Car_Hyundai_Accent_Default_2016_P_MT
+:::::::::::::: DeviceManagement , BMS_Exicom_48V - BS_Demo_2024_EV_AT
+:::::::::::::: Likraft , BMS_Likraft_51.2V 100Ah LFP_JBD 250_2024_EV_AT
+:::::::::::::: Mooving_Mobility / Livguard / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Swift_Default_2021_P_AT
+:::::::::::::: BikeBazaar , eBike_HEROelectric_Optima_Power_2019_EV_AT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Kirloskar_2024_EV_AT
+:::::::::::::: BOSCH , Tata ace_Tata_Tata Ace_Default_2018_EV_AT
+:::::::::::::: DriEV_Demo , BMS_Inverted_48V_Default_2022_EV_AT
+:::::::::::::: EVUrjaa , BMS_Highflow_51.2v45 AH_Superpower_Dally_500BD_2024_EV_AT
+:::::::::::::: Perpetuity_Capital , eRickshaw_Mahindra_Treo_Zor_2021_EV_AT
+:::::::::::::: Rideriver , eBike_Rideriver_Gen2_Indie _2024_EV_AT
+:::::::::::::: EVMGroup , Bike_Royal Enfield_Guerrilla 450_Default_2024_P_MT
+:::::::::::::: Vgoocars , Car_Renault_Kwid_RX_2018_P_MT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_VSR48-024 20CEB_Eicher_2023_EV_AT
+:::::::::::::: GoEv , eRickshaw_Altigreen_NEEV HD_EV_2021_EV_AT
+:::::::::::::: DeviceManagement , Car_Maruti_Swift_Default_2022_P_MT
+:::::::::::::: Noori_Travels , Car_Kia_Carnival_Default_2022_D_MT
+:::::::::::::: Trontek , eBike_Corritelectric_Hover_Default_2023_EV_AT
+:::::::::::::: EVMGroup , Bike_BMW_G310R_Default_2018_P_MT
+:::::::::::::: RoyalBrothers , Bike_Hero_DESTINI 125_Default_2020_P_AT
+:::::::::::::: blrtrafficpolice , Bike_TVS_Apache_RTR180_2023_P_AT
+:::::::::::::: Akira , BMS_Akira_51.2 V 100 AH_JBD 500_2024_EV_AT
+:::::::::::::: Noori_Travels , Car_Toyota_Innova Crysta_Default_2021_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Honda CB 350_Default_2023_P_AT
+:::::::::::::: Krishniah Chetty and Sons , Bike_Honda_Activa_Default_2023_P_AT
+:::::::::::::: Vgoocars , Car_JEEP_Compass_Default_2018_P_MT
+:::::::::::::: Gentari , ____0__
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Vento_Default_2021_P_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_TVS_NTORQ_Default_2019_P_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Activa_Default_2019_P_CVT
+:::::::::::::: Cygni / IntelliOne , BMS_Cygni_Cygni_52V_2023_EV_AT
+:::::::::::::: alt_mobility , eBike_BGauss_D15i_Default_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_TVS_NTORQ_Default_2023_P_AT
+:::::::::::::: Eastman , BMS_Eastman_64V-105AH_JBD21S/200A_2024_EV_AT
+:::::::::::::: BuyMyEV , eBike_BuyMyEV_E-Kicks_Ver 2_2022_EV_MT
+:::::::::::::: Greaves_3W_MLR_Auto , ____0__
+:::::::::::::: Navnit Motors , Car_Maruti_Wagonr_Default_2023_CNG_MT
+:::::::::::::: Cygni , BMS_Cygni_Cygni_52V_2023_EV_AT
+:::::::::::::: zyngo , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: Highflow_Industries , BMS_Highflow_48V_Default_2022_EV_AT
+:::::::::::::: Likraft , BMS_Likraft_52V_JK BMS_2023_EV_AT
+:::::::::::::: Likraft , ____0__
+:::::::::::::: Sidm , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: Tata_Demo / PASFREIGHT , Truck_Eicher_Pro 2059_XP_2023_D_MT
+:::::::::::::: EVM_secondarydevice , Car_MG_Comet_EV_2024_EV_AT
+:::::::::::::: Abroad_Clients / beep_tech , ____0__
+:::::::::::::: Lohum / Upgrid_Mobility , BMS_Lohum_50V_Default_2022_EV_AT
+:::::::::::::: Monter , Car_Tata_Tiago_Default_2020_P_MT
+:::::::::::::: MUPL , eRickshaw_Euler_HiLoad_AT_2021_EV_AT
+:::::::::::::: OHMMobility , eBike_Gemopai_Astrid_Default_2021_EV_AT
+:::::::::::::: ARI_US / Abroad_Clients , ____0__
+:::::::::::::: BS_Devices_Simsterminated / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: E_ChargeUp / Greenfuel , BMS_Greenfuel_51.2V_GF4_2024_EV_AT
+:::::::::::::: PointO / Inverted_energy , BMS_Inverted_51v100AH_Dally_2023_EV_AT
+:::::::::::::: Belrise_Industries , ____0__
+:::::::::::::: Livguard / IntelliOne , BMS_Livguard_BMS White Knight 14S_48V_60A_V4_2023_EV_No Data
+:::::::::::::: Likraft / ZyppElectric , BMS_Likraft_52V_JBD_2023_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD200A_No Genset_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Redi Go_Default_2019_P_AT
+:::::::::::::: Vflow , BMS_Vflow_51.2V100AH_Superpower _2024_EV_AT
+:::::::::::::: Oculus , eRickshaw_Oculus_MI7_Default_2021_EV_AT
+:::::::::::::: VVIP_Police , Car_Maruti_Ertiga_ZXI_2020_D_MT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Classic 350_Default_2023_P_MT
+:::::::::::::: Madikeri_Police , Car_Mahindra_Scorpio_Default_2019_D_MT
+:::::::::::::: Magenta / MTA_emobility , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: Amplus / Zappit_Shoffr , Car_BYD E6_BYD E6_Default_2021_EV_AMT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Yamaha_MT 15_Default_2023_P_AT
+:::::::::::::: BLR_POLICE_HOYSALAS , Car_Maruti_Ertiga_ZXI_2020_D_MT
+:::::::::::::: Greenfuel , BMS_Greenfuel_48V_V3_2022_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Royal Enfield_Classic 350_Default_2023_P_MT
+:::::::::::::: TVS_RD , Bike_TVS_Wego_Default_2017_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Go_Default_2019_P_AT
+:::::::::::::: PointO , BMS_CLN Energy_52 V_51.2V 105 Ah_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Dio_Default_2017_P_AT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_VSX48-032 20CEB_Eicher_2023_EV_AT
+:::::::::::::: ZyppElectric , eBike_HEROelectric_NYX e5_HX_2022_EV_AT
+:::::::::::::: Vgoocars , Car_Maruti_Brezza_ZXI_2021_P_AT
+:::::::::::::: sid2007jaingmail.com / ICProduction / Livguard , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_ePRO_Cargo_SEG+Exicom_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_TVS_Apache_RTR180_2023_P_AT
+:::::::::::::: Eastman / E_ChargeUp , BMS_Eastman_51V105 Ah_JBD 16S 60A_2024_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_VIRTUS_Default_2024_P_AT
+:::::::::::::: ZyppElectric , eBike_Fujiyama_SPECTRA_Default_2023_EV_AT
+:::::::::::::: vidyuttech_API / Greaves_3W_MLR_Auto / IntelliOne , eRickshaw_MLR Auto_Eltra_Cargo_SEG+Exicom_2023_EV_AT
+:::::::::::::: super_mexx , BMS_Supermexx_48v100ah_Dally_500_2024_EV_AT
+:::::::::::::: E_ChargeUp / Greenfuel , BMS_Greenfuel_GF1_JBD500_2024_EV_AT
+:::::::::::::: Greenfuel , BMS_Greenfuel_48V_V2_2022_EV_AT
+:::::::::::::: vidyuttech_API / MahindraDemo , eRickshaw_Mahindra_Treo_Zor_2021_EV_AT
+:::::::::::::: Livguard_Ver2 / Livguard / Upgrid_Mobility , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_MG_Hector_Default_2021_P_AT
+:::::::::::::: EVMGroup , Bike_Hero_Splendor_Default_2018_P_MT
+:::::::::::::: AIS140_ICAT , ____0__
+:::::::::::::: lithium , Car_Tata_Tigor_Xpress T Ziptron_2023_EV_AT
+:::::::::::::: DeviceManagement / Wheelocity / EOLTest_Pass_2024 , eRickshaw_Reep_Keto_Default_2022_EV_AT
+:::::::::::::: EVMGroup , Bike_Royal Enfield_Himalayan_Default_2023_P_MT
+:::::::::::::: Vgoocars , Car_Toyota_Innova_G_2016_D_MT
+:::::::::::::: Stride , eRickshaw_Omega_Seiki rage+_Default_2024_EV_AT
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Inverted_51.6V_Inverted_Daly_2023_EV_AT
+:::::::::::::: Kineticgreen , eRickshaw_Kinetic_Safar_Smart_2021_EV_AT
+:::::::::::::: Battrixx , BMS_Battrixx_51.2V 105ah_JBD_2024_EV_AT
+:::::::::::::: DMT , BMS_Stefen_48V_Default_2022_EV_AT
+:::::::::::::: Noori_Travels , Car_BYD E6_BYD E6_Default_2021_EV_AMT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Kisan_2024_EV_AT
+:::::::::::::: Quantum / Trontek , BMS_Trontek_6148(19S LFP)_Default_2023_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: ZyppElectric , BMS_Likraft_50.4V 60Ah_JK250_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Car_Maruti_Ertiga_Default_2023_CNG_MT
+:::::::::::::: Bounce_EV , Bike_Bounce_Infinity_Default_2023_EV_AT
+:::::::::::::: Charzer / Quick_Ride , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Epitome_energy / IntelliOne / Upgrid_Mobility , BMS_Epitome energy_48V_Default_2023_EV_AT
+:::::::::::::: Amplus , eRickshaw_Omega_Seiki_Default_2021_EV_AT
+:::::::::::::: VVIP_Police , Car_Maruti_Eeco_Default_2017_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_MT 15_Default_2021_P_MT
+:::::::::::::: Smrtiacademy , Bus_Force_Tempo Traveller_Default_2021_D_MT
+:::::::::::::: E_ChargeUp , BMS_Greenfuel_48V_Electrifuel_V1_2023_EV_AT
+:::::::::::::: vidyuttech_API , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: Krishniah Chetty and Sons , Car_Maruti_Ertiga_Default_2017_D_MT
+:::::::::::::: Eastman , BMS_Eastman_EM LFP S 51050_JBD CAN 250_2024_EV_AT
+:::::::::::::: DeviceManagement / Trontek / Upgrid_Mobility , BMS_Trontek_51V_Battery Smart 500K Protocol_2024_EV_AT
+:::::::::::::: EEE_TAXI , Car_Tata_Tiago_XM_2020_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Tata_Nexon_Default_2024_D_MT
+:::::::::::::: Demo_Nupur / Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Hyundai_i20_Default_2023_P_MT
+:::::::::::::: PoliceInspectors_law_order , Car_Maruti_Ertiga_Default_2023_P_MT
+:::::::::::::: Neuron , BMS_CLN Energy_60.8 V_60.8V 105Ah_2024_EV_AT
+:::::::::::::: virya_mobility , eRickshaw_Bajaj_Maxima_Cargo_2024_EV_AT
+:::::::::::::: Greenifit , eBike_BGauss_D15i_Default_2022_EV_AT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Tractor_2024_EV_AT
+:::::::::::::: Vgoocars , Car_Maruti_Wagonr_VXI_2019_P_AMT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Holand_2024_EV_AT
+:::::::::::::: AltNxt_Energy , ____0__
+:::::::::::::: BUZZ_ENERGY , Charging-Station_Buzz Energy_EzeeGateway_V1_2023_EV_AT
+:::::::::::::: EV91_Riderz , eBike_BGauss_C12_i Max_2024_EV_AT
+:::::::::::::: OKO_Mobility , Car_BYD E6_BYD E6_Default_2023_EV_AMT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_ BSR48-03820CEB_Eicher_2023_EV_AT
+:::::::::::::: Perpetuity_Capital , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Hero_HF-Deluxe_Default_2021_P_MT
+:::::::::::::: MUPL / Stride / Zen_Mobility , E-Cargo_Zen_ZEN MICROPOD_Default_2024_EV_AT
+:::::::::::::: TaSki / DriveO , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: EVMGroup , Bike_Triumph_Speed 400_Default_2022_P_MT
+:::::::::::::: Livguard / Upgrid_Mobility , BMS_Livguard_48V_V2_2022_EV_AT
+:::::::::::::: Likraft , BMS_Likraft_51.2V 45Ah LFP_BatterySmart_V2_2024_EV_AT
+:::::::::::::: Charzer / Quick_Ride , Car_Tata_Xpress -T_Default_2021_EV_AT
+:::::::::::::: EVMGroup , Bike_Honda_Shine_Default_2017_P_MT
+:::::::::::::: Eastman , BMS_Eastman_64V-150AH_JBD CAN 250_2024_EV_AT
+:::::::::::::: PointO / Inverted_energy / Upgrid_Mobility , BMS_Inverted_51.6V_Inverted_Daly_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_MG_zs EV_Exclusive_2022_EV_AT
+:::::::::::::: Quantum , eBike_Quantum_Jinka_250_Bziness Pro_2024_EV_AT
+:::::::::::::: BikeBazaar , eBike_HEROelectric_Optima_Default_2018_EV_AT
+:::::::::::::: Napino / Livguard / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: MG_Motors , Car_MG_Comet_EV_2024_EV_AT
+:::::::::::::: IndusGo_SecondaryDevice , ____0__
+:::::::::::::: alt_mobility , eBike_BGauss_D15i_Default_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Car_Maruti_Dzire_Default_2023_D_MT
+:::::::::::::: ICProduction / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Eastman , BMS_Eastman_64V-230Ah_JBD-CAN_2022_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_ePRO_Tork+Amaron_2023_EV_AT
+:::::::::::::: Perpetuity_Capital , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: BuyMyEV , eBike_BuyMyEV_SF_Default_2023_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Wagonr_Default_2023_CNG_MT
+:::::::::::::: Ofload / Abroad_Clients , ____0__
+:::::::::::::: Greaves_2W_Ampere , eBike_Ampere_Primus_Default_2023_EV_AT
+:::::::::::::: DEMO , Car_JEEP_Compass_Default_2018_D_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yezdi_Adventure_Default_2021_P_MT
+:::::::::::::: IndusGo , Car_Maruti_Brezza_Default_2020_P_MT
+:::::::::::::: One_World_Mobility , eBike_Bounce_Infinity_Default_2022_EV_MT
+:::::::::::::: Lithion , BMS_Lithion_Battery_48V_2022_EV_AT
+:::::::::::::: Moove , Car_Maruti_Spresso_Default_2021_P_MT
+:::::::::::::: IndusGo , Car_Toyota_Innova Crysta_Default_2021_P_MT
+:::::::::::::: BikeBazaar , eBike_Ampere_Zeal_Default_2019_EV_AT
+:::::::::::::: Trontek , BMS_Trontek_51V105Ah_Trontek BMS - REV1.1 - 500K_2024_EV_AT
+:::::::::::::: MBSI_LA5 , ____0__
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_CliQ_Default_2019_P_AT
+:::::::::::::: Likraft / EOLTest_Pass_2024 , BMS_Likraft_60V 100Ah LFP_JBD250_2024_EV_AT
+:::::::::::::: Yukinova / YukiElectrical , BMS_Yukinova_60V_Default_2023_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS / PoliceInspectors_law_order , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: MUPL / Stride , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2023_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS / blrtrafficpolice / PoliceInspectors_law_order , Car_Maruti_Ertiga_Default_2023_P_MT
+:::::::::::::: Madikeri_Police , Traveller_Force_Traveller_Default_2020_D_MT
+:::::::::::::: Vgoocars , Car_Toyota_Innova Crysta_GX 7 STR_2021_D_MT
+:::::::::::::: HMC , eRickshaw_Hero_R&D_Default_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_CB 200X_Default_2023_P_MT
+:::::::::::::: Sparrow_Mobility , Car_Hyundai_Aura_Default_2020_P_MT
+:::::::::::::: BLR_POLICE_HOYSALAS , Car_Maruti_Ertiga_ZXI_2020_P_MT
+:::::::::::::: Ohm_Automotives / ElectrifiMobility , Car_BYD E6_BYD E6_Default_2023_EV_AMT
+:::::::::::::: Mooving_Mobility / Livguard / BS_Devices_Simsterminated / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Akira , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Activa_Default_2018_P_MT
+:::::::::::::: CLN_Energy , BMS_CLN Energy_60.8 V_60.8V 105Ah_2024_EV_AT
+:::::::::::::: PointO / Neuron / Upgrid_Mobility , BMS_Neuron_52 V_Battery Smart 500K_2023_EV_AT
+:::::::::::::: Turno , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: Cygni / Upgrid_Mobility , BMS_Cygni_52V_Default_2023_EV_AT
+:::::::::::::: SNM_Cabs , Car_Tata_Xpress -T_Default_2021_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Toyota_Rumion_Default_2024_P_MT
+:::::::::::::: EVMGroup , Bike_Yezdi_Scrambler_Default_2021_P_MT
+:::::::::::::: BS_Devices_Simsterminated / stefen_electric / Upgrid_Mobility , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: MoveInSync / Refex_Green_Mobility , Car_Tata_Tigor_Xpress T Ziptron_2023_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Bajaj_NS 200_Default_2019_P_MT
+:::::::::::::: virya_mobility , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: Trontek , BMS_Trontek_6148(19S LFP)_Default_2023_EV_AT
+:::::::::::::: Bounce_EV , eBike_Bounce_Infinity_Default_2024_EV_AT
+:::::::::::::: Zappit_Shoffr , Car_BYD E6_BYD E6_Default_2023_EV_AMT
+:::::::::::::: CLN_Energy , BMS_CLN Energy_51.2v150ah_JBD250_2024_EV_AT
+:::::::::::::: DMT , BMS_Stefen_48V-Superpower_Default_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Suzuki_Access_Default_2017_P_AT
+:::::::::::::: Neuron , BMS_Neuron_51.2V _51.2V 100Ah_2024_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Swift_Default_2021_P_MT
+:::::::::::::: Greaves_3W_MLR_Auto / IntelliOne , eRickshaw_MLR Auto_Eltra_City_SEG+Exicom_2023_EV_AT
+:::::::::::::: BS_Devices_Simsterminated / Inverted_energy , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: Waree , ____0__
+:::::::::::::: DriEV_Demo / Inverted_energy , BMS_Inverted_48V_Default_2022_EV_AT
+:::::::::::::: Likraft , BMS_Likraft_72V 50AH_JBD250_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_TVS_NTORQ_Default_2023_P_AT
+:::::::::::::: ICProduction / Livguard , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Jimny_Default_2023_P_MT
+:::::::::::::: RoyalBrothers , Bike_Suzuki_Avenis_Default_2022_P_AT
+:::::::::::::: shortterm_storage / stefen_electric / Upgrid_Mobility , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , eBike_HEROelectric_NYX e5_HX_2022_EV_AT
+:::::::::::::: Livguard / BS_Devices_Simsterminated / IntelliOne , BMS_Livguard_48V_V4_2023_EV_AT
+:::::::::::::: Turtle_Mobility , eBike_HEROelectric_NYX e5_Default_2018_EV_AT
+:::::::::::::: shivatest.ic / Blusmart , Car_Tata_Xpress -T_Electra_2022_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Bajaj_Pulsar 150_Default_2017_P_MT
+:::::::::::::: Tata_Demo , Truck_Tata_2818C_Default_2022_D_MT
+:::::::::::::: Dally_Demo / BS_Devices_Simsterminated / stefen_electric , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: Livguard_Ver2 / Livguard / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Magenta , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_activa 125_Default_2022_P_AT
+:::::::::::::: Mooving_Mobility / Livguard , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: SatyaSai_Travels , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_Eltra_Cargo_SEG+Exicom_2022_EV_AT
+:::::::::::::: Likraft , BMS_Likraft_52V_JBD_2023_EV_AT
+:::::::::::::: Maple_Rides , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Exergi , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Hyundai_Alcazar_Default_2022_D_AT
+:::::::::::::: LA5.IC.OPS / stefen_electric / Upgrid_Mobility , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: BS_Devices_Simsterminated / stefen_electric , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: Amplus / Quantum , eBike_Quantum_Bziness_EV_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Dio_Default_2023_P_AT
+:::::::::::::: Likraft , BMS_Likraft_72V_Default_2022_EV_AT
+:::::::::::::: Garden_apts , ____0__
+:::::::::::::: Livguard / Greenfuel / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: IndusGo , Car_Maruti_Ignis_Default_2020_P_MT
+:::::::::::::: MUPL / Gensol , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Bajaj_Pulsar 250F_Default_2021_P_MT
+:::::::::::::: ELECTRIQMOBILITYMOTORS / Turno / Naturaw , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: Madikeri_Police , Car_Toyota_Innova_G_2016_D_MT
+:::::::::::::: Monter , Car_Honda_Amaze_Default_2020_P_MT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_ePRO_Cargo_Tork+Amaron_2023_EV_AT
+:::::::::::::: Quantum , eBike_Quantum_Bziness_Local-NMC500_2024_EV_AT
+:::::::::::::: DeviceManagement / Trusterra , ____0__
+:::::::::::::: city_Armed_Reserve , Car_Maruti_Eeco_Default_2017_D_MT
+:::::::::::::: MUPL , ____0__
+:::::::::::::: PointO / Inverted_energy , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: MUPL , Tata ace_Tata_Tata Ace_Default_2018_EV_AT
+:::::::::::::: Neuron , BMS_Neuron_51.2V _51.2 V 200Ah_2024_EV_AT
+:::::::::::::: Noori_Travels , Car_Toyota_Innova Crysta_GX 7 STR_2021_D_MT
+:::::::::::::: Abroad_Clients / MBSI_PVT_LTD , eBike_Yamaha_Proto_Default_2024_EV_AT
+:::::::::::::: Greenfuel / Upgrid_Mobility , BMS_Greenfuel_48V_V2_2022_EV_AT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Shakti_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Interceptor 650_Default_2018_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_CB Hornet 160R_Default_2024_P_MT
+:::::::::::::: EVMGroup , Bike_Honda_Shine_Default_2023_P_MT
+:::::::::::::: RoyalBrothers / demo.hero , Bike_Hero_Glamour_Default_2018_P_MT
+:::::::::::::: Quantum , eBike_Quantum_Bziness_Daly 500 BMS_2023_EV_AT
+:::::::::::::: ORIX.IC , Car_Toyota_Innova Crysta_Default_2021_P_MT
+:::::::::::::: Quantum , eBike_Quantum_Bziness_500_Bziness XS_2024_EV_AT
+:::::::::::::: PointO / Inverted_energy , BMS_Inverted_51.6V_Inverted_JBD_2023_EV_AT
+:::::::::::::: Tata_Demo , Truck_Scania_Scania G410_Default_2020_D_MT
+:::::::::::::: Ofload / Abroad_Clients , Truck_Mercedes Benz_Truck_Actros_2018_EV_AT
+:::::::::::::: Likraft , BMS_Likraft_50.4V 60Ah_JK250_2024_EV_AT
+:::::::::::::: blrtrafficpolice , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: FAE_Bikes , eBike_Jitendra_FAE Bikes_Default_2021_EV_MT
+:::::::::::::: pointerrefuel , ____0__
+:::::::::::::: MUPL / Stride , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: Amplus , eBike_Bounce_Infinity_Default_2022_EV_MT
+:::::::::::::: Livguard_Ver2 / Livguard / BS_Devices_Simsterminated , BMS_Livguard_48V_V2_2022_EV_AT
+:::::::::::::: Livguard , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Refex_Green_Mobility , Car_Tata_Xpress -T_Default_2021_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , Vehicle_Vehicle_Vehicle_Default_2017_D_MT
+:::::::::::::: IndusGo_Bikes , Bike_Suzuki_Access_Default_2023_P_AT
+:::::::::::::: Greaves_2W_Ampere , eBike_Ampere_Magnus_MC 100_2024_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Bajaj_pulsar NS 400_Default_2024_P_MT
+:::::::::::::: DeviceManagement / IntelliOne , ____0__
+:::::::::::::: Smrtiacademy , Bus_Isuzu_SML_GS_2022_D_MT
+:::::::::::::: Pixcell / Upgrid_Mobility , BMS_Pixcell_60V_default_2023_EV_AT
+:::::::::::::: Maxwell , BMS_Maxwell_BMS_60V_2022_EV_AT
+:::::::::::::: MoveInSync , Car_Tata_Xpress -T_Default_2021_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS / blrtrafficpolice / PoliceInspectors_law_order , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: Mooving / Mooving_Mobility / Livguard / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Perpetuity_Capital , Car_Tata_Sumo_Default_2016_D_MT
+:::::::::::::: DeviceManagement / MUPL / EOLTest_Pass_2024 , ____0__
+:::::::::::::: FAE_Bikes , eBike_Xero_Xero_Default_2024_EV_AT
+:::::::::::::: Epitome_energy , BMS_Epitome energy_51.2V105AH_JBD500_2024_EV_AT
+:::::::::::::: IndusGo_SecondaryDevice , Car_Maruti_Swift_VXI_2020_P_MT
+:::::::::::::: Charzer , Car_BYD E6_BYD E6_Default_2023_EV_AMT
+:::::::::::::: Trusterra / Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Go+_Default_2019_P_MT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Bullet 350_Default_2017_P_MT
+:::::::::::::: Noori_Travels , Car_Mahindra_eVerito_Default_2018_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Micra_Default_2019_P_AT
+:::::::::::::: DMT , Car_Hyundai_Creta_Default_2016_P_MT
+:::::::::::::: lithium / EOLTest_Pass_2024 , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Ipower , BMS_iPower_iPower_Daly 250_2023_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Suzuki_Access_Default_2017_P_AT
+:::::::::::::: EVMGroup , Bike_Honda_Activa_Default_2023_P_AT
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_SuperPower_Default_2024_EV_AT
+:::::::::::::: HWY Rider , Bike_Honda_Activa_Default_2023_P_AT
+:::::::::::::: Sidm , ____0__
+:::::::::::::: Greenfuel , BMS_Greenfuel_48V_V1_2019_EV_AT
+:::::::::::::: EmoEnergy / Abroad_Clients , ____0__
+:::::::::::::: MUPL / Gensol , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: Kineticgreen , Lithium Ion (LFP51160E)_Okaya Power Group_LF80-73103_48V, 160Ah_2021_EV_AT
+:::::::::::::: Quantum , eBike_Quantum_Bziness_Trontek BMS_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_MG_Hector_Default_2020_D_MT
+:::::::::::::: Juleh_Mobility , Car_Tata_Nexon_Default_2024_EV_AT
+:::::::::::::: EVMGroup , Bike_Honda_CB 300_Default_2022_P_AT
+:::::::::::::: Perpetuity_Capital , Car_Maruti_Ertiga_VDi_2019_D_AT
+:::::::::::::: Battrixx , ____0__
+:::::::::::::: BuyMyEV / LA5.IC.OPS , eBike_BuyMyEV_E-Kicks_Ver 2_2022_EV_MT
+:::::::::::::: Pibeam , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: LA5.IC.OPS , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: BS_Devices_Simsterminated / stefen_electric , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: Avas , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2023_EV_AT
+:::::::::::::: ICProduction / Livguard / Upgrid_Mobility , BMS_Livguard_48V_V2_2022_EV_AT
+:::::::::::::: Maverick_Motors , Bike_Royal Enfield_Himalayan 452_Default_2024_P_MT
+:::::::::::::: Adani_Wilmar , Car_Toyota_Innova Crysta_Default_2013_D_MT
+:::::::::::::: Ipower / HMC , BMS_iPower_iPower_Daly 250_2023_EV_AT
+:::::::::::::: Lectrix / Trontek , BMS_Trontek_51V_Default_2022_EV_AT
+:::::::::::::: EVMGroup , Bike_BMW_G310GS_Default_2016_P_MT
+:::::::::::::: MG_Motors , Car_MG_Hector_Default_2021_P_AT
+:::::::::::::: TopGear_Autolinks , _honda_cb hornet 160r__0_P_MT
+:::::::::::::: LA5.IC.OPS , Bike_Suzuki_Access_Default_2017_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_CB 200X_Default_2021_P_MT
+:::::::::::::: Grinntech , BMS_Livguard_48V_Default_2020_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Honda_Dio_Default_2017_P_MT
+:::::::::::::: BLive , eBike_Lectrix_LSX 2.0_Default_2024_EV_AT
+:::::::::::::: Maverick_Motors , Bike_Suzuki_Access_Default_2023_P_AT
+:::::::::::::: ZyppElectric / CLN_Energy , BMS_CLN Energy_52 V_51.2V 105 Ah_2024_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Redi Go_Default_2021_P_MT
+:::::::::::::: Noori_Travels , Car_Honda_Amaze_Default_2020_P_AT
+:::::::::::::: BS_Devices_Simsterminated / stefen_electric , BMS_Stefen_48V_4G-250Kbps_2023_EV_AT
+:::::::::::::: Moove , Car_Maruti_Wagonr_Default_2022_CNG_MT
+:::::::::::::: EVM_secondarydevice , Car_Tata_Punch_Default_2021_P_MT
+:::::::::::::: IntelliOne , ____0__
+:::::::::::::: stefen_electric / Upgrid_Mobility , BMS_Stefen_48V_4G-250Kbps_2023_EV_AT
+:::::::::::::: YukiElectrical , BMS_YukiElectrical_60V36AH_Dally_2024_EV_AT
+:::::::::::::: Gemopai / ElectrifiMobility , eBike_Gemopai_Ryder_High Speed_2024_EV_AT
+:::::::::::::: ACP_law_and_order , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: BS_Devices_Simsterminated / stefen_electric , ____0__
+:::::::::::::: Mooving_Mobility / Livguard / IntelliOne / Upgrid_Mobility , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: SBLTravels , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: VVIP_Police , Car_Maruti_Eeco_Default_2017_D_MT
+:::::::::::::: Epitome_energy / Upgrid_Mobility , BMS_Epitome energy_48V_Default_2023_EV_AT
+:::::::::::::: Dally_Demo / stefen_electric / Upgrid_Mobility , BMS_Stefen_48V-Superpower_Default_2023_EV_AT
+:::::::::::::: Amplus , eBike_Lectrix_LX25D_Default_2021_EV_AT
+:::::::::::::: Mooving_Mobility / Livguard / Upgrid_Mobility , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Redi Go_Default_2021_P_AT
+:::::::::::::: ZyppElectric / Ipower , BMS_iPower_48v 64Ah_Dally 250_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Car_Honda_City_Default_2019_P_AT
+:::::::::::::: Maverick_Motors , Bike_Royal Enfield_Classic 350_Default_2023_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Skoda_Rapid_Default_2020_P_AT
+:::::::::::::: Livguard / IntelliOne , BMS_Livguard_BMS_WK_16S_LFP_48V_60A_V4_2023_EV_AT
+:::::::::::::: shortterm_storage / Trontek / Upgrid_Mobility , BMS_Trontek_51V_Battery Smart 500K Protocol_2024_EV_AT
+:::::::::::::: Trontek , ____0__
+:::::::::::::: FAE_Bikes , ____0__
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSX48-032 20CEB_Fieldmarshal_2023_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_Default_2022_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Swift_VXI_2018_D_MT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Hunter _350_2023_P_MT
+:::::::::::::: EVMGroup , Bike_TVS_NTORQ_Default_2023_P_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_R 3_Default_2024_P_MT
+:::::::::::::: FAE_Bikes , eBike_HEROelectric_NYX e5_HX_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Redi Go_Default_2020_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Micra_Default_2018_P_MT
+:::::::::::::: Sparrow_Mobility , Car_Maruti_Wagonr_Default_2021_P_MT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_VSR48-045 20CEB_Eicher_2024_EV_AT
+:::::::::::::: ICProduction / Livguard / IntelliOne , BMS_Livguard_48V_V2_2022_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Swift_Default_2022_P_MT
+:::::::::::::: Greenfuel , ____0__
+:::::::::::::: Greenifit / Demo_2W , eBike_BGauss_D15i_Default_2022_EV_AT
+:::::::::::::: Trontek / Upgrid_Mobility , BMS_Trontek_51V_14S NMC_2023_EV_AT
+:::::::::::::: Monter , Car_Mahindra_Scorpio_Default_2020_P_MT
+:::::::::::::: Greendrive / alt_mobility / Quantum , eBike_Quantum_Bziness_500_Bziness XS_2024_EV_AT
+:::::::::::::: BikeBazaar / Quantum , eBike_Quantum_Jinka_250_Bziness Pro_2024_EV_AT
+:::::::::::::: Greenfuel , BMS_Greenfuel_GF1_60_JBD500_2024_EV_AT
+:::::::::::::: blrtrafficpolice / city_Armed_Reserve , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: RoyalBrothers , Bike_Honda_Dio_Default_2023_P_AT
+:::::::::::::: Perpetuity_Capital , Car_Maruti_Swift_Default_2021_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Polo_GT TSI_2019_P_AT
+:::::::::::::: DMT / Pibeam / Altigreen_Test , eRickshaw_Altigreen_NEEV HD_EV_2021_EV_AT
+:::::::::::::: Quantum , eBike_Quantum_Bziness_500_Bziness X_2024_EV_AT
+:::::::::::::: Mangalore_police , Car_Maruti_Ertiga_Default_2020_P_MT
+:::::::::::::: EVM_secondarydevice / Sundaram_Finance_Demo , Car_Skoda_KUSHAQ_Default_2022_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Kicks_Default_2021_P_AT
+:::::::::::::: Livguard_Ver2 / IntelliOne , BMS_Livguard_BMS_WK_16S_LFP_48V_60A_V4_2023_EV_AT
+:::::::::::::: ScooEV_Sigrid , eBike_Ampere_Zeal_Default_2019_EV_AT
+:::::::::::::: ElectrifiMobility , eRickshaw_Omega_Seiki rage+_Default_2024_EV_AT
+:::::::::::::: Zappit_Shoffr , Car_BYD E6_BYD E6_Default_2021_EV_AMT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_CB Hornet 160R_Default_2017_P_MT
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD200A_Suraj_2023_EV_AT
+:::::::::::::: BuyMyEV , eBike_BuyMyEV_DF_Default_2023_EV_AT
+:::::::::::::: ICProduction / Livguard / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Akira , BMS_Akira_51.2V 105AH_JBD500_2024_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_MG_Hector_Default_2021_D_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Suzuki_Gixxer 250_Default_2021_P_MT
+:::::::::::::: Everest , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: EEE_TAXI / Auto_Vikas , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: IntelliOne , VFD_Crompton Greaves_VSX48-032 20CEB_Livguard_2024_EV_AT
+:::::::::::::: DriveO , Car_Tata_Xpress -T_Ziptron_2024_EV_AT
+:::::::::::::: MDM_Fleets , Car_Tata_Tigor_Xpress T Ziptron_2023_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Car_Maruti_Ertiga_Default_2023_P_MT
+:::::::::::::: Noori_Travels , Car_Maruti_Ertiga_Default_2023_CNG_MT
+:::::::::::::: Maverick_Motors , Bike_Royal Enfield_Twin 650 Shotgun_Default_2024_P_MT
+:::::::::::::: Stride , eRickshaw_Mahindra_Treo_Zor_2021_EV_AT
+:::::::::::::: Wheelocity / EOLTest_Pass_2024 , eRickshaw_Reep_Keto_Default_2022_EV_AT
+:::::::::::::: Rideriver / Abroad_Clients , eBike_Rideriver_Gen1_indie_2024_EV_AT
+:::::::::::::: KTPL , Bus_Swaraj Mazda_Swaraj Mazda_Default_2017_D_MT
+:::::::::::::: stefen_electric , BMS_Stefen_48V_Default_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_Ray Z_Default_2017_P_MT
+:::::::::::::: Upgrid_Mobility , BMS_Stefen_48V_Superpower_Default_2023_EV_AT
+:::::::::::::: Astor_motor , eRickshaw_Astor motor_Navy GPT trails_Default_2024_EV_AT
+:::::::::::::: Ipower , BMS_iPower_iPower_Default_2020_EV_AT
+:::::::::::::: Trontek , BMS_Trontek_51V105Ah_500K_Baudrate_2023_EV_AT
+:::::::::::::: Denso , ____0__
+:::::::::::::: AWEVSolutions , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: FAE_Bikes , eBike_Jitendra_JMT 1000 HS_Default_2022_EV_AT
+:::::::::::::: DriveO , Car_Tata_Tigor_Xpress T Ziptron_2023_EV_AT
+:::::::::::::: LA5.IC.OPS , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: MoveInSync , Car_Tata_Xpress -T_Electra_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Royal Enfield_Himalayan 452_Default_2024_P_MT
+:::::::::::::: MUPL , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: Upgrid_Mobility , eRickshaw_Bahubali_E-Rickshaw_Default_2024_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Yamaha_Fascino_Default_2023_P_AT
+:::::::::::::: EVM_secondarydevice , Car_Citroen_C3 Aircross_Default_2024_EV_AT
+:::::::::::::: IndusGo_SecondaryDevice , Car_Maruti_Ignis_Default_2020_P_MT
+:::::::::::::: MUPL , eRickshaw_Mahindra_Zor Grand_DV+_2022_EV_MT
+:::::::::::::: EVMGroup , Bike_Royal Enfield_Hunter _350_2023_P_MT
+:::::::::::::: MBSI_PVT_LTD , eBike_BGauss_D15i_Default_2023_EV_AT
+:::::::::::::: Trontek , BMS_Trontek_64V_Trontek 500K Rev1.1_2023_EV_AT
+:::::::::::::: Adani_Wilmar , Car_Mahindra_Marazzo_Default_2019_D_MT
+:::::::::::::: Greaves_3W_MLR_Auto / IntelliOne , eRickshaw_MLR Auto_ePRO_City_SEG+Exicom_2023_EV_AT
+:::::::::::::: IntelliOne , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: EVMGroup , Bike_Honda_CB Hornet 160R_Default_2024_P_MT
+:::::::::::::: MG_Motors / WTI_WiseTravels , Car_MG_zs EV_Exclusive_2022_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Demo_Evlyte / Blusmart , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Perpetuity_Capital , Car_Force_TT_Default_2017_D_MT
+:::::::::::::: Greaves_3W_MLR_Auto / IntelliOne , eRickshaw_MLR Auto_Eltra_PV_SEG+Exicom_2024_EV_AT
+:::::::::::::: TaSki , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Indus_Fleet , Car_Maruti_Wagonr_Default_2023_CNG_MT
+:::::::::::::: Atria , Tata ace_Tata_Tata Ace_Default_2018_P_MT
+:::::::::::::: Noori_Travels , Car_Maruti_Brezza_Default_2020_P_MT
+:::::::::::::: MUPL / Stride , Tata ace_Tata_Tata Ace_EV_2023_EV_AT
+:::::::::::::: BUZZ_ENERGY , Charging-Station_Buzz Energy_EzeeDock_V1_2023_EV_AT
+:::::::::::::: Boom_Cabs , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Redon_Lithium , ____0__
+:::::::::::::: HWY Rider , Bike_Suzuki_VStrom_SX 250_2022_P_MT
+:::::::::::::: Blusmart / demo.hero , Car_Tata_Xpress -T_Electra_2022_EV_AT
+:::::::::::::: Ipower / Stride / HMC , BMS_iPower_iPower_Daly 250_2023_EV_AT
+:::::::::::::: Highflow_Industries , BMS_Highflow_51.2V100AH_Default_2023_EV_AT
+:::::::::::::: vidyuttech_API / Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_ePRO_Cargo_Tork+Amaron_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Redi Go_Default_2019_P_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yezdi_Scrambler_Default_2021_P_MT
+:::::::::::::: Blusmart , Car_Tata_Xpres-T_Ziptron_2024_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD200A_Default_2023_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Honda_Honda CB 350_Default_2023_P_AT
+:::::::::::::: MUPL , eRickshaw_Altigreen_NEEV HD_EV_2021_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_Eltra_Cargo_SEG+Exicom_2023_EV_AT
+:::::::::::::: Charzer / MG_Motors , Car_MG_zs EV_Exclusive_2022_EV_AT
+:::::::::::::: KHT_agencies / Demo_Evlyte / Blusmart , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Suzuki_Gixxer 150_Default_2023_P_AT
+:::::::::::::: Noori_Travels , Car_Maruti_New Dzire_VXI_2018_P_AMT
+:::::::::::::: Stride , eRickshaw_Euler_HiLoad_AT_2021_EV_AT
+:::::::::::::: Cygni / BS_Devices_Simsterminated / Upgrid_Mobility , BMS_Cygni_Cygni_52V_2023_EV_AT
+:::::::::::::: Demo_Nupur / MUPL , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: ZeroLeap , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Polo_Default_2020_P_AT
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD200A_Mahindra_2023_EV_AT
+:::::::::::::: LA5.IC.OPS , BMS_iPower_iPower_Default_2020_EV_AT
+:::::::::::::: blrtrafficpolice , Car_Mahindra_Bolero_CBCPS 1.5T BS4_2018_D_MT
+:::::::::::::: Trontek , BMS_Trontek_76V_Default_2022_EV_AT
+:::::::::::::: ICProduction / Livguard / IntelliOne , BMS_Livguard_48V_V1_2020_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Honda_Activa_Default_2017_P_MT
+:::::::::::::: MBSI_PVT_LTD / demo.hero , Bike_Hero_Xpulse_200_2019_P_MT
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Terrano_Default_2018_D_MT
+:::::::::::::: blrtrafficpolice , Car_Maruti_Eeco_Default_2017_D_MT
+:::::::::::::: PointO / Inverted_energy / Upgrid_Mobility , BMS_Inverted_51V105AH_JBD_2023_EV_AT
+:::::::::::::: BLR_POLICE_HOYSALAS / PoliceInspectors_law_order , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: RoyalBrothers / demo.hero , Bike_Hero_Xpulse_200_2023_P_AT
+:::::::::::::: Quantum , BMS_Trontek_6148(19S LFP)_Default_2023_EV_AT
+:::::::::::::: Greendrive / alt_mobility / Quantum , eBike_Quantum_Bziness_MCU 250K_2023_EV_AT
+:::::::::::::: Vgoocars , Car_Maruti_Alto k10_Default_2019_P_MT
+:::::::::::::: omegaseiki / vidyuttech_API , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: Demo_Evlyte / Blusmart / demo.hero , Car_Tata_Xpress -T_Ziptron_2022_EV_AT
+:::::::::::::: Eastman , BMS_Eastman_EM LFP S 51105 H_JBD CAN 250_2024_EV_AT
+:::::::::::::: RoyalBrothers , Bike_Yamaha_Fz_Default_2023_P_MT
+:::::::::::::: Highflow_Industries , BMS_Highflow_52V_JBD 500K_2023_EV_AT
+:::::::::::::: Livguard / BS_Devices_Simsterminated , ____0__
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Himalayan_Default_2023_P_MT
+:::::::::::::: shizenenergy , BMS_Shizenenergy_51.2V 150Ah_JBD 21S 300A_2024_EV_AT
+:::::::::::::: LA5.IC.OPS , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Suzuki_VStrom_SF250_2021_P_MT
+:::::::::::::: Greenfuel , BMS_Greenfuel_GF1_JBD500_2024_EV_AT
+:::::::::::::: EmoEnergy , eBike_kineticgreen_E luna_500baud rate_2024_EV_AT
+:::::::::::::: HWY Rider , Bike_Honda_Dio_Default_2021_P_AT
+:::::::::::::: Trontek / Upgrid_Mobility , BMS_Trontek_64V_Default_2022_EV_AT
+:::::::::::::: Adani_Wilmar , Car_Toyota_Innova Crysta_GX 7 STR_2021_D_MT
+:::::::::::::: Battrixx , BMS_Battrixx_JBD_52V_2024_battrixx_pointo_2024_EV_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Royal Enfield_Bullet 350_Default_2017_P_MT
+:::::::::::::: Metafin / IntelliOne , VFD_Crompton Greaves_VSR48-024 20CEB_Default_2022_EV_AT
+:::::::::::::: DeviceManagement / MBSI_PVT_LTD , Car_Hyundai_Aura_Default_2020_P_MT
+:::::::::::::: Moove , Car_Maruti_Wagonr_Default_2023_CNG_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Yamaha_Fz_Default_2017_P_MT
+:::::::::::::: RoyalBrothers , Bike_Honda_CB Hornet 160R_Default_2024_P_MT
+:::::::::::::: Eastman , BMS_Eastman_64V-150AH_JBD 21S/200A_2024_EV_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_Eltra_DV_SEG+Exicom_2023_EV_AT
+:::::::::::::: Baxy , eBike_Baxy_Pro_Default_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Skoda_slavia_Default_2022_P_MT
+:::::::::::::: Perpetuity_Capital , eRickshaw_Altigreen_NEEV HD_EV_2021_EV_AT
+:::::::::::::: Neuron , BMS_Neuron_51.2V _51.2V 105Ah_2024_EV_AT
+:::::::::::::: vidyuttech_API , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: Livguard_Ver2 / Livguard / Upgrid_Mobility , BMS_Livguard_48V_V4_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Datsun_Redi Go_Default_2018_P_AT
+:::::::::::::: RoyalBrothers / demo.hero , Bike_Honda_activa 125_Default_2022_P_AT
+:::::::::::::: Moove_SecondaryDevice , Car_Maruti_Wagonr_Default_2023_CNG_MT
+:::::::::::::: EVM_secondarydevice , Car_Tata_Nexon_Default_2024_EV_AT
+:::::::::::::: VVIP_Police , Car_Mahindra_Bolero_Default_2021_D_MT
+:::::::::::::: Trontek , BMS_Trontek_61V_Default_2022_EV_AT
+:::::::::::::: omegaseiki , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: Lohum , BMS_Lohum_50V_BS250_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_MG_Hector_Default_2020_P_AT
+:::::::::::::: MG_Motors / Blusmart , Car_MG_zs EV_Exclusive_2022_EV_AT
+:::::::::::::: IndusGo_SecondaryDevice , Car_Maruti_Swift_Default_2022_P_MT
+:::::::::::::: Battrixx / BS_Devices_Simsterminated / Upgrid_Mobility , BMS_Battrixx_48v_Superpower_Default_2024_EV_AT
+:::::::::::::: examinationvehicles_BCP , Truck_Tata_Truck_Default_2017_D_MT
+:::::::::::::: Eastman / Upgrid_Mobility , BMS_Eastman_51.2V50AH_Default_2023_EV_AT
+:::::::::::::: coslight , BMS_Battery_TEST_Default_2021_EV_AT
+:::::::::::::: stefen_electric , BMS_Stefen_48V_4G-250Kbps_2023_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD200A_Escort_2023_EV_AT
+:::::::::::::: Greaves_L3_BAPL_erickshaw , eRickshaw_Bestway Agencies Pvt Ltd_ELE EX JUMBO_E-CART_2024_EV_AT
+:::::::::::::: IndusGo , Car_Maruti_Alto k10_Default_2019_P_MT
+:::::::::::::: BLR_POLICE_HOYSALAS , Car_Maruti_Ertiga_VDi_2019_D_MT
+:::::::::::::: BS_Devices_Simsterminated / stefen_electric , BMS_Stefen_48V_Default_2022_EV_AT
+:::::::::::::: Noori_Travels , Car_Maruti_Dzire_Default_2023_D_MT
+:::::::::::::: EVMGroup , Bike_Royal Enfield_Classic 350_Default_2023_P_MT
+:::::::::::::: KTPL , Truck_MAN_Truck_Default_2017_D_MT
+:::::::::::::: GoMylz , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: EVM_secondarydevice , ____0__
+:::::::::::::: Battrixx / Upgrid_Mobility , BMS_Battrixx_48v_Superpower_Default_2024_EV_AT
+:::::::::::::: blrtrafficpolice , Bike_TVS_Apache_RR310_2018_P_MT
+:::::::::::::: virya_mobility , eRickshaw_Omega_Seiki rage+_Default_2021_EV_AT
+:::::::::::::: dhatri , Car_Maruti_Ertiga_Default_2023_P_MT
+:::::::::::::: ScooEV_Sigrid , BMS_micronix_52V_Default_2023_EV_AT
+:::::::::::::: LA5.IC.OPS , BMS_Stefen_48V_Default_2022_EV_AT
+:::::::::::::: Street_Corner , eBike_Royal EV_MAZE_Default_2021_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Tata_Altroz_Default_2021_P_MT
+:::::::::::::: ElectrifiMobility / Blusmart , Car_Tata_Xpres-T_Ziptron_2024_EV_AT
+:::::::::::::: Vgoocars , Car_Hyundai_Creta_Default_2018_D_AT
+:::::::::::::: Sparrow_Mobility , Car_Mahindra_Xuv400_Default_2024_EV_AT
+:::::::::::::: MBSI_PVT_LTD , Bike_Hero_Xpulse_200_2019_P_MT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Escort_2023_EV_AT
+:::::::::::::: Adani_Wilmar , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: IntelliOne / Inverted_energy / Upgrid_Mobility , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: Greenfuel , BMS_Greenfuel_GF8_Spiro_250_72V_2024_EV_AT
+:::::::::::::: Mooving_Mobility / Livguard / Upgrid_Mobility , BMS_Livguard_48V_V2_2022_EV_AT
+:::::::::::::: Metafin / IntelliOne , VFD_INVT_GD100_No Genset_2023_EV_AT
+:::::::::::::: Greenifit , eBike_HEROelectric_Optima_Eco_2019_EV_AT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Mahindra_2023_EV_AT
+:::::::::::::: Napino / Livguard / IntelliOne / Upgrid_Mobility , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Sparrow_Mobility , Car_Maruti_Dzire_Default_2023_D_MT
+:::::::::::::: shivatest.ic / MUPL , Tata ace_Tata_Tata Ace_EV_2023_EV_AT
+:::::::::::::: Mangalore_police , Car_Maruti_Ertiga_ZXI_2020_D_MT
+:::::::::::::: MBSI_PVT_LTD , Bike_Suzuki_Gixxer 150_Default_2023_P_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Vento_HIGHLNE_2020_P_AT
+:::::::::::::: RoyalBrothers , Bike_Royal Enfield_Meteor 350 steller_Default_2023_P_MT
+:::::::::::::: BLR_POLICE_HOYSALAS / blrtrafficpolice , Car_Mahindra_Bolero_Default_2021_P_MT
+:::::::::::::: Arigs , eRickshaw_Mahindra_Supromax_Default_2022_EV_AT
+:::::::::::::: Mooving / Livguard / IntelliOne , BMS_Livguard_BMS_White_Knight_14S_48V_60A_V4_2023_EV_-
+:::::::::::::: Likraft , BMS_Likraft_52V_JBD250_2024_EV_AT
+:::::::::::::: Eastman , BMS_Eastman_64V-105AH_JBD CAN 250_2024_EV_AT
+:::::::::::::: JioBP_Delhi , eRickshaw_Piaggio_Ape E-Xtra FX_EV_2021_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Volkswagen_Tiguan_Default_2021_P_AT
+:::::::::::::: Greaves_3W_MLR_Auto , eRickshaw_MLR Auto_Eltra_Cargo_Tork+Amaron_2023_EV_AT
+:::::::::::::: stefen_electric , BMS_Inverted_48V_V1_2022_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Maruti_Swift_Default_2022_P_MT
+:::::::::::::: IntelliOne , VFD_INVT_GD200A_Powertrac_2024_EV_AT
+:::::::::::::: EVM_secondarydevice / Sundaram_Finance_Demo , Car_Mahindra_Thar_Default_2022_D_AT
+:::::::::::::: MBSI_LA5 / MBSI_PVT_LTD , Bike_Bajaj_Pulsar 250N_Default_2023_P_MT
+:::::::::::::: EVMGroup , Bike_Yamaha_MT 15_Default_2023_P_AT
+:::::::::::::: Abroad_Clients / Greaves_2W_Ampere , eBike_Ampere_Nexus_NXG_2024_EV_AT
+:::::::::::::: Adani_Wilmar , Car_Mahindra_Xylo_Default_2017_D_MT
+:::::::::::::: Eastman , BMS_Eastman_51.2V-100AH._JBD 250_2023_EV_AT
+:::::::::::::: EVM_secondarydevice , Car_Nissan_Datsun Redi Go_Default_2021_P_MT
+:::::::::::::: ZyppElectric , ____0__
+Sucefully Updated :)........... time: 140.574146ms
+Calling webhooks.........
+Finised !!!!!!!!!!!!!!!!!!!
